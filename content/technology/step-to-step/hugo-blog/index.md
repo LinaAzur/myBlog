@@ -3,14 +3,12 @@ title: "How to do a hugo blog and not die while trying"
 description: "Yo will learn how to do a hugo blog and publish it with github pages"
 ---
 
-## .- Make sure you have a gtihub account
+## 1.- Make sure you have a gtihub account
 
-## .-
-
-## 1.- Choose the theme your going to use
+## 2.- Choose the theme your going to use
 You need to choose your theme from hugo blog: https://themes.gohugo.io/
 
-## 2.- Fork the theme of your preference in your repositories
+## 3.- Fork the theme of your preference in your repositories
 This will allow you to have the copy all the time in your repositories, you don't have to worry if for any reason the original repo disapears.
 
 ## .- Create a new folder/repository
