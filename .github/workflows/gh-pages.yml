@@ -1,38 +1,35 @@
-name: GitHub Pages
+name: github pages
 
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
-  pull_request:
+    - main
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-20.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+    - uses: actions/checkout@v2
+    - name: Checkout submodules
+      shell: bash
+      run: |
+        auth_header="$(git config --local --get http.https://github.com/.extraheader)"
+        git submodule sync --recursive
+        git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.4.13
+      with:
+        hugo-version: 'latest'
+        extended: true
 
-      - name: Build
-        run: hugo --minify
+    - name: Build
+      run: hugo --gc --minify --buildFuture --cleanDestinationDir
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        # If you're changing the branch from main,
-        # also change the `main` in `refs/heads/main`
-        # below accordingly.
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3.7.3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        publish_branch: gh-pages
+        publish_dir: ./public
+        allow_empty_commit: true
