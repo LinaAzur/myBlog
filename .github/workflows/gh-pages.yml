@@ -1,11 +1,10 @@
-# .github/workflows/gh-pages.yml
-
 name: GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # Set a branch name to trigger deployment
+  pull_request:
 
 jobs:
   deploy:
@@ -36,5 +35,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-	  publish_dir: ./public
-
+          publish_dir: ./public
