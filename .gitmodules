@@ -2,6 +2,3 @@
 	path = themes/blowfish
 	url = git@github.com:Jucaski/blowfish.git
 	branch = main
-[submodule "public"]
-	path = public
-	url = git@github.com:Jucaski/Jucaski.github.io.git
