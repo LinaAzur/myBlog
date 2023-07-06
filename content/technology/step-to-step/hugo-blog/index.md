@@ -1,25 +1,51 @@
 ---
-title: "How to do a hugo blog and not die while trying"
-description: "Yo will learn how to do a hugo blog and publish it with github pages"
+title: "How to make an hugo blog and deploy it with github pages"
+description: "Step by step"
+date: 2023-07-05
 ---
 
-## 1.- Make sure you have a gtihub account
+## 1. Github account
+Make sure you have a [github](https://github.com/) account.
 
-## 2.- Choose the theme your going to use
-You need to choose your theme from hugo blog: https://themes.gohugo.io/
+## 2. Install Hugo
 
-## 3.- Fork the theme of your preference in your repositories
+<https://gohugo.io/installation/>
+
+If you're using macOS, you can simply type:
+```
+brew install hugo
+ ```
+## 3. Install Git
+Just in case you don't have it already.
+
+<https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
+
+## 4. Theme of your preference
+You need to choose your theme from Hugo blog: <https://themes.gohugo.io/>
+
+## 5. Fork the theme of your preference
 This will allow you to have the copy all the time in your repositories, you don't have to worry if for any reason the original repo disapears.
+<img title="a title" alt="Alt text" src="fork.png">
 
-## .- Create a new folder/repository
-In case you already have the folder where you going to have your blog, then you just have to create the repository and connect it with the origin repository
+## 6. Create Hugo site 
+Follow the instructions to create a new [Hugo site](https://gohugo.io/getting-started/quick-start/#create-a-site)
 
-In case you haven't created anything, you need to create the repository in github and then clone it in your local.
+And make sure to put the forked submodule of the theme you chose before.
+<img title="a title" alt="Alt text" src="submodule.png">
+
+Also add the name of the theme you chose.
+<img title="a title" alt="Alt text" src="themeName.png">
+
+## 7. Create a new repository
+Make sure your repository is public, and also add a readme file
+<img title="a title" alt="Alt text" src="repository.png">
+
 
 ## Myblog/
 Inside this folder, we need to follow the instructions of the quickstart from hugo blog
 alongside with the instructions of the theme that you choose. You have to have a structure like this:
 
+<img title="a title" alt="Alt text" src="featured.png">
 
 Where *theme/* will contain the submodule of the theme that you fork in your repositories
 
@@ -34,3 +60,6 @@ I recommend that you create a test post, don't forget you need to use .md as ext
 
 ## Now here it comes the funny part
 You need to create another repository, with the exact same name as your profile, but we're add .gihub.io at the end, in my case the repository name will be Jucaski.github.io This will also be your personal url where your blog will be deploy
+
+
+
