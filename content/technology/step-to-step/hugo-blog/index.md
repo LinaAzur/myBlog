@@ -36,30 +36,30 @@ And make sure to put the forked submodule of the theme you chose before.
 Also add the name of the theme you chose.
 <img title="a title" alt="Alt text" src="themeName.png">
 
+Once you've created your site, you should have a directory structure like this:
+<img title="a title" alt="Alt text" src="content.png">
+
+**theme/** will contain the submodule of the theme that you fork in your repositories.
+
 ## 7. Create a new repository
-Make sure your repository is public, and also add a readme file
+Make sure your repository is public, also add a readme file.
 <img title="a title" alt="Alt text" src="repository.png">
 
-
-## Myblog/
-Inside this folder, we need to follow the instructions of the quickstart from hugo blog
-alongside with the instructions of the theme that you choose. You have to have a structure like this:
-
-<img title="a title" alt="Alt text" src="featured.png">
-
-Where *theme/* will contain the submodule of the theme that you fork in your repositories
-
-## .- Configure your config.toeml
-This will depend entirely on the theme that you choose, make sure you read carefully the configuration part 
-
-## Usually your fisrt post should be inside content/posts/
-I recommend that you create a test post, don't forget you need to use .md as extention file
-
-## You should be able to use hugo servee to compile your blog and visualize it as you want
+Add the repository origin to the local folder of your Hugo site.
 
 
-## Now here it comes the funny part
-You need to create another repository, with the exact same name as your profile, but we're add .gihub.io at the end, in my case the repository name will be Jucaski.github.io This will also be your personal url where your blog will be deploy
+## 8. Configure your hugo.toml
+This will depend entirely on the theme that you chose, make sure you read carefully the configuration of your theme.
 
+## 9. Create your first post
+[Create your post](https://gohugo.io/getting-started/quick-start/#add-content), they will be save in the content folder.
+
+Use ```hugo serve``` to compile your blog and visualize it locally
+
+
+## 10. Deploy your blog with Github Pages
+You need to follow the instructions from [Hosting and Deployment](https://gohugo.io/hosting-and-deployment/hosting-on-github/#procedure), is super easy.
+
+That's it, now you should have a blog with the same name as your usename.github.io
 
 
