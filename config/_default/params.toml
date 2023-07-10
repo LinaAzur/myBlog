@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["Technology", "section2"]
+mainSections = ["technology", "books"]
 # robots = ""
 
 disableImageOptimization = false
@@ -60,7 +60,7 @@ smartTOC = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
@@ -80,14 +80,14 @@ smartTOC = true
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
