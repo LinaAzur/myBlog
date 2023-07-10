@@ -42,7 +42,7 @@ smartTOC = true
   showMoreLink = true
   showMoreLinkDest = "/technology"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -71,7 +71,7 @@ smartTOC = true
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
-  showSummary = true
+  showSummary = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
