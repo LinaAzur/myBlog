@@ -17,15 +17,15 @@ mainSections = ["technology", "books"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "img/ocean.jpg" # used as default for background images 
-defaultFeaturedImage = "img/ocean.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/sunrise.jpg" # used as default for background images 
+defaultFeaturedImage = "img/sunrise.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -36,7 +36,7 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/ocean.jpg" # used in: hero, and card
+  homepageImage = "img/sunrise.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true

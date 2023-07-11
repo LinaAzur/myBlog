@@ -8,15 +8,15 @@ title = "Jucaski"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "img/handlogo.png"
+   logo = "img/comp.png"
   # secondaryLogo = "img/secondary-logo.png"
    description = "My awesome website"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
    name = "Jucaski"
-   image = "img/bu.jpg"
-   headline = "Hello World!"
+   image = "img/fishes.jpeg"
+   headline = "~Hello World!"
    bio = "The time is now."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
