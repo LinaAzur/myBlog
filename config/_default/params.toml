@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["technology", "books"]
+mainSections = ["technology"]
 # robots = ""
 
 disableImageOptimization = false
@@ -20,9 +20,9 @@ disableImageOptimization = false
 defaultBackgroundImage = "img/sunrise.jpg" # used as default for background images 
 defaultFeaturedImage = "img/sunrise.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -38,9 +38,9 @@ smartTOC = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/sunrise.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "/technology"
+  showMoreLinkDest = "technology"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -55,30 +55,30 @@ smartTOC = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = true
+  seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
+  showRelatedContent = false
+  relatedContentLimit = 6
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
-  showSummary = false
+  showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = true
   showViews = false
@@ -87,7 +87,7 @@ smartTOC = true
   showCards = true
   groupByYear = true
   cardView = false
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   constrainItemsWidth = false
 
 [sitemap]

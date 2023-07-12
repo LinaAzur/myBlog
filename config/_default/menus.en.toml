@@ -20,6 +20,12 @@
   pageRef = "books"
   weight = 20
 
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Jucaski"
+  weight = 400
+
 #[[main]]
 #  name = "Code Editor"
 #  parent = "Technology"
