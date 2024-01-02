@@ -504,11 +504,30 @@ date: 2023-07-11
 - El gran show secreto ~ Clive Barker
 - El imperio final ~ Brandon Sanderson
 - El pozo de la ascensión ~ Brandon Sanderson 
+- Daisy Jones & The six ~ Taylor Jenkins Reid
+- Nieve de primavera ~ Yukio Mishima
+- El obsceno pájaro de la noche ~ José Donoso
+- El llano en llamas ~ Juan Rulfo
+- El árbol de las brujas ~ Ray Bradbury
+- Historia del tiempo ~ Stephen Hawking
+- The girl from the other side 1 ~ Siuil a Run
+- The girl from the other side 2 ~ Siuil a Run
+- Navidades trágicas ~ Agatha Christie 
 
 #### Audiobooks
 - Padre rico padre pobre ~ Robert T. Kiyosaki 
 - Cómo hablar con cualquiera ~ John S. Lawson
 - La mujer que llegaba a las 6 ~ Gabriel García Márquez 
 - El verdadero significado de la vida ~ León Tolstói
+- Orpheus ~ M Braceli
+- El cuervo ~ Edgar Allan Poe
+- La bruja del ideal ~ José Alcalá Galiano
+- La máquina del tiempo ~ H. G. Wells
+- Una cabeza llena de fantasmas ~ Paul Tremblay 
+- Por trece razones ~ Jay Asher
+- Fractal ~ Jose Antonio Cotrina
+- Materia oscura ~ Blake Crouch
+- Los caminantes ~ Carlos Sisí
+- Recursión ~ Blake Crouch 
 
 
