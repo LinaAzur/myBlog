@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Notes"
 ---
 
-All about the books I've read.
+Notes about my courses, etc.
