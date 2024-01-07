@@ -357,3 +357,22 @@ A computer programming language that allows you to retrieve and manipulate data 
 - Looker
 
 Depending on which phase of the data analysis process you’re in, you will need to use different tools. For example, if you are focusing on creating complex and eye-catching visualizations, then the visualization tools we discussed earlier are the best choice. But if you are focusing on organizing, cleaning, and analyzing data, then you will probably be choosing between spreadsheets and databases using queries.
+
+
+**Database:** A collection of data stored in a computer system
+
+**Formula:** A set of instructions used to perform a calculation using the data in a spreadsheet
+
+**Function:** A preset command that automatically performs a specified process or task using the data in a spreadsheet
+
+**Query:** A request for data or information from a database
+
+**Query language:** A computer programming language used to communicate with a database
+
+**Stakeholders:** People who invest time and resources into a project and are interested in its outcome
+
+**Structured Query Language:** A computer programming language used to communicate with a database
+
+**Spreadsheet:** A digital worksheet
+
+**SQL:** (Refer to Structured Query Language)
