@@ -376,3 +376,77 @@ Depending on which phase of the data analysis process you’re in, you will need
 **Spreadsheet:** A digital worksheet
 
 **SQL:** (Refer to Structured Query Language)
+
+
+
+## Organize your data
+
+One way to organize your data is by sorting it.
+
+1.  Select all columns that contain data. There are a few ways to select multiple cells:
+    
+    1.  To select nonadjacent cells and/or cell ranges, hold the **Command** (Mac) or **Ctrl** (PC) **key** and select the cells.
+        
+    2.  To select a range of cells, hold the **Shift** key and either drag your cursor over which cells you want to include or use the arrow keys to select a range.
+        
+    3.  Select a single cell and drag your cursor over the cells you want to include in your selection.
+        
+2.  Select the **Data** menu.
+    
+3.  Select **Sort range**, then select **Advanced range sorting options**.
+    
+4.  In the **Advanced range sorting options** window, select the checkbox for **Data has header row**. Make sure that **A to Z** is selected.
+    
+5.  Select the **Sort by** drop-down menu, then select **Siblings**.
+    
+6.  Select **Sort**. This will organize the spreadsheet by the number of siblings, from lowest to highest.
+
+**The column labels are usually called attributes**
+### Attribute 
+A characteristic or quality of data used to label a column in a table
+
+**In a dataset, a row is also called an observation**
+#### Observation
+All of the attributes for something contained in a row of a data table
+
+### Formula 
+A set of instructions that performs a specific action using the data in a spreadsheet
+
+## SQL
+- Store
+- Organize
+- Analyze
+
+##### Query
+A request for data or information form a database
+
+Syntax is the predetermined structure of a language that includes all required words, symbols, and punctuation,
+
+Notice that unlike the SELECT command that uses a comma to separate fields / variables / parameters, the WHERE command uses the AND statement to connect conditions.
+
+However, using capitalization and indentation can help you read the information more easily. Keep your queries neat, and they will be easier to review or troubleshoot if you need to check them later on.
+
+Comments are text placed between certain characters, /* and */, or after two dashes --) as shown below
+
+new name or **alias** to the column AS
+
+You create a SQL query similar to below, where <> means "does not equal":
+SELECT
+*
+FROM
+Employee
+WHERE
+jobCode <>  'INT'
+AND salary <=  30000;
+
+"Data visualizations are pictures. They are a wonderful way to take very basic ideas around data and data points and makes them come alive"
+
+**Attribute**: A characteristic or quality of data used to label a column in a table
+
+**Function:** A preset command that automatically performs a specified process or task using the data in a spreadsheet
+
+**Observation:** The attributes that describe a piece of data contained in a row of a table
+
+**Oversampling:** The process of increasing the sample size of nondominant groups in a population. This can help you better represent them and address imbalanced datasets
+
+**Self-reporting:** A  data collection technique where participants provide information about themselves
