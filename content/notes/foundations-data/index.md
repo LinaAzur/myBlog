@@ -692,3 +692,149 @@ A third-party logistics company working with another company to get shipments de
 ### **Finding patterns**
 
 Minimizing downtime caused by machine failure is an example of a problem requiring analysts to find patterns in data. For example, by analyzing maintenance data, they might discover that most failures happen if regular maintenance is delayed by more than a 15-day window.
+
+
+## Types of avoid questions
+#### Leading question
+Because it's leading you to answer in a certain way.
+#### Close-ended question
+That means it can be answered with a yes or no. These kind of questions rarely lead to valuable insights.
+#### Questions that are too bague and lack context
+
+### Smart questions
+#### Specific
+Specific questions are simple, significant, and focused on a single topic or a few closely related ideas
+###### For example
+***"Are kids getting enough exercise these days?"*** replaced to:
+***"What percentage of kids achieve the recommended 60 minutes of physical activity at least five days a week"***
+#### Measurable
+Measurable questions can be quantified and assessed
+###### For example
+Instead of: ***"Why did or recent video go viral?"***,
+***"How many times was our video shared on social channels the first week it was posted?"***
+#### Action-oriented
+Action-oriented questions encourage change
+###### For example
+Instead of: ***"How can we get customers to recycle our product packaging?"***, to:
+***"What design features will make our packaging easier to recycle"***
+#### Relevant
+Relevant questions matter, are important, and have significance to help problem you're trying to solve
+###### For example
+***"Why does it matter that Pine Barrens tree frogs started disappearing?"*** to, "What environmental factors changed in Durham, North Carolina, between 1983 and 2004 that could cause Pine Barrens tree frogs to disappear from the Sandhills Regions?"
+
+#### Time-bound
+Time-bound questions specify the time to be studied.
+This limit the range of possibilities and enables the data analyst to focus on relevant data
+### Fairness
+Ensuring that your questions don't create or reinforce bias
+
+**Specific:**
+
+Is the question specific? Does it address the problem? Does it have context? Will it uncover a lot of the information you need?
+
+**Measurable:** Will the question give you answers that you can measure?
+
+**Action-oriented:** Will the answers provide information that helps you devise some type of plan?
+
+**Relevant:** Is the question about the particular problem you are trying to solve?
+
+**Time-bound:** Are the answers relevant to the specific time being studied?
+
+## Things to avoid when asking questions
+
+**Leading questions**: questions that only have a particular response
+
+-   Example: **This product is too expensive, isn’t it?**
+    
+
+This is a leading question because it suggests an answer as part of the question. A better question might be, “What is your opinion of this product?” There are tons of answers to that question, and they could include information about usability, features, accessories, color, reliability, and popularity, on top of price. Now, if your problem is actually focused on pricing, you could ask a question like “What price (or price range) would make you consider purchasing this product?” This question would provide a lot of different measurable responses.
+
+**Closed-ended questions**: questions that ask for a one-word or brief response only
+
+-   Example: **Were you satisfied with the customer trial?**
+    
+
+This is a closed-ended question because it doesn’t encourage people to expand on their answer. It is really easy for them to give one-word responses that aren’t very informative. A better question might be, “What did you learn about customer experience from the trial.” This encourages people to provide more detail besides “It went well.”
+
+**Vague questions:** questions that aren’t specific or don’t provide context
+
+-   Example: **Does the tool work for you?**
+    
+
+This question is too vague because there is no context. Is it about comparing the new tool to the one it replaces? You just don’t know. A better inquiry might be, “When it comes to data entry, is the new tool faster, slower, or about the same as the old tool? If faster, how much time is saved? If slower, how much time is lost?” These questions give context (data entry) and help frame responses that are measurable (time).
+
+Some common topics for questions include:
+
+-   **Objectives**
+    
+-   **Audience**
+    
+-   **Time**
+    
+-   **Resources**
+    
+-   **Security**
+
+For instance, if you have a conversation with someone who works in retail, you might lead with questions like:
+
+-   **S****pecific:** Do you currently use data to drive decisions in your business? If so, what kind(s) of data do you collect, and how do you use it?
+    
+-   **M****easurable:** Do you know what percentage of sales is from your top-selling products?
+    
+-   **A****ction-oriented:** Are there business decisions or changes that you would make if you had the right information? For example, if you had information about how umbrella sales change with the weather, how would you use it?
+    
+-   **R****elevant:** How often do you review data from your business?
+    
+-   **T****ime-bound:** Can you describe how data helped you make good decisions for your store(s) this past year?
+    
+
+If you are having a conversation with a teacher, you might ask different questions, such as:
+
+-   **S****pecific:** What kind of data do you use to build your lessons?
+    
+-   **M****easurable:** How well do student benchmark test scores correlate with their grades?
+    
+-   **A****ction-oriented:** Do you share your data with other teachers to improve lessons?
+    
+-   **R****elevant:** Have you shared grading data with an entire class? If so, do students seem to be more or less motivated, or about the same?
+    
+-   **T***ime-bound:** In the last five years, how many times did you review data from previous academic years?
+    
+
+If you are having a conversation with a small business owner of an ice cream shop, you could ask:
+
+-   **S***pecific:** What data do you use to help with purchasing and inventory?
+    
+-   **M***easurable:** Can you order (rank) these factors from most to least influential on sales: price, flavor, and time of year (season)?
+    
+-   **A***ction-oriented:** Is there a single factor you need more data on so you can potentially increase sales?
+    
+-   **R***elevant:** How do you advertise to or communicate with customers?
+    
+-   **T***ime-bound:** What does your year-over-year sales growth look like for the last three years?
+
+### Good Notes
+Helpful aspects of your conversation to note include:
+
+-   **Facts:** Write down any concrete piece of information, such as dates, times, names, and other specifics.
+    
+-   **Context:** Facts without context are useless. Note any relevant details that are needed in order to understand the information you gather.
+    
+-   **Unknowns:** Sometimes you may miss an important question during a conversation. Make a note when this happens so you can figure out the answer later.
+    
+
+For example, if the previous SMART questions led the ice cream shop owner to propose a project to analyze customer flavor preferences, your notes might appear something like this:
+
+-   **Project**: Collect customer flavor preference data.
+    
+-   **Overall business goal**: Use data to offer or create more popular flavors.
+    
+-   **Two data sources**: Cash register receipts and completed customer surveys (email).
+    
+-   **Target completion date:** Q2
+    
+-   **To do:** Call back later and speak with the manager about the location of survey data.
+
+
+
+**Structured thinking:** The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
