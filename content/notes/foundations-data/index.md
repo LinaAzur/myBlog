@@ -838,3 +838,27 @@ For example, if the previous SMART questions led the ice cream shop owner to pro
 
 
 **Structured thinking:** The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options
+
+
+## Data-driven decisions
+data-driven decision-making means using facts to guide business strategy. The phrase “data-driven decisions” means exactly that: Data is used to arrive at a decision. This approach is limited by the quantity and quality of readily-available data. If the quality and quantity of the data is sufficient, this approach can far improve decision-making. But if the data is insufficient or biased, this can create problems for decision-makers. Potential dangers of relying entirely on data-driven decision-making can include overreliance on historical data, a tendency to ignore qualitative insights, and potential biases in data collection and analysis.
+
+
+## Data-inspired decisions
+
+Data-inspired decisions include the same considerations as data-driven decisions while adding another layer of complexity. They create space for people using data to consider a broader range of ideas: drawing on comparisons to related concepts, giving weight to feelings and experiences, and considering other qualities that may be more difficult to measure. Data-inspired decision-making can avoid some of the pitfalls that data-driven decisions might be prone to.
+
+
+**There are two kinds of data, quantitative and qualitative**
+
+Quantitative data is all about the specific and objective measures of numerical facts.
+
+This can often be the what, how many, and how often about a problem.
+
+In other words, things you can measure, like how many commuters take the train to work every week.
+
+
+
+On the other hand, qualitative data describes subjective or explanatory measures of qualities and characteristics or things that can't be measured with numerical data, like your hair color.
+
+Qualitative data is great for helping us answer why questions.
