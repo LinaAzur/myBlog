@@ -301,42 +301,18 @@ Look at the current state and identify how it's different from the ideal state
 **Determine who the stakeholders are** in order to understand their expectations.
 For example, defining to include all types of risks that could affect the company or just risks related to weather.
 ## Prepare
-different types
+different types of data and how to identify which kinds of data are most useful for solving a particular problem.
 
-of data and how to identify
-
-which kinds of data are most
-
-useful for solving a particular problem.
-
-You'll also discover why it's so important that
-
-your data and results are objective and unbiased.
+You'll also discover why it's so important that your data and results are objective and unbiased.
 "We need to be thinking about the type of data we need in order to answer the questions that we've set out to answer based on what we learned when we asked the right questions"
 
 ## the process phase
-This usually means cleaning data,
-
-transforming it into a more useful format,
-
-combining two or more datasets to make
-
-information more complete and removing outliers,
-
-which are any data points that
-
-could skew the information. This phase is all about getting the details right.
+This usually means cleaning data, transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data points that could skew the information. This phase is all about getting the details right.
 "This is where you get a chance to understand its structure, its quirks , its nuances, and you really get a chance to understand deeply what type of data you're going to be working with and understanding what potential that data has to answer all of your questions"
 After cleaning the data and running all the quality assurance checks
 
 ## Analyze
-involves using tools to transform
-
-and organize that information
-
-so that you can draw useful conclusions,
-
-make predictions, and drive informed decision-making.
+involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making.
 
 "This is the point where we have to take a step back and let the data speak for itself"
 
