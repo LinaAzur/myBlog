@@ -95,3 +95,6 @@ You can navegate throwghout the file with this keys.
 - **j** down
 - **k** up
 - **l** right
+
+### Copy to the cliboard
+``` :%y+ ```
