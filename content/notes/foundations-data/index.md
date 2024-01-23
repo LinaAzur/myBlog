@@ -81,15 +81,9 @@ If you want to make a few important decisions under
 
 uncertainty, that is statistics.
 
-If you want to automate, in other words, make many, many,
+If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI.
 
-many decisions under uncertainty,
-
-that is machine learning and AI.
-
-But what if you don't know
-
-how many decisions you want to make before you begin?
+But what if you don't know how many decisions you want to make before you begin?
 
 What if what you're looking for is inspiration?
 
@@ -402,9 +396,7 @@ Notice that unlike the SELECT command that uses a comma to separate fields / var
 
 However, using capitalization and indentation can help you read the information more easily. Keep your queries neat, and they will be easier to review or troubleshoot if you need to check them later on.
 
-Comments are text placed between certain characters, /* and */, or after two dashes --) as shown below
-
-new name or **alias** to the column AS
+Comments are text placed between certain characters, /* and */, or after two dashes --) as shown below new name or **alias** to the column AS
 
 You create a SQL query similar to below, where <> means "does not equal":
 SELECT
