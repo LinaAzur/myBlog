@@ -930,3 +930,5 @@ The quality and reliability of the data
     
 -   **Archive** any spreadsheet that you don’t use often, but might need to reference later with built-in tools. 
 -   **Destroy** your spreadsheet when you are certain that you will never need it again, if you have better backup copies, or for legal or security reasons. 
+
+#### Spreadsheets shortcuts
