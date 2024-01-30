@@ -931,4 +931,9 @@ The quality and reliability of the data
 -   **Archive** any spreadsheet that you don’t use often, but might need to reference later with built-in tools. 
 -   **Destroy** your spreadsheet when you are certain that you will never need it again, if you have better backup copies, or for legal or security reasons. 
 
-#### Spreadsheets shortcuts
+#### Spreadsheets Errors
+#N/A Error - Data in a formula can't be found by the spreadsheet
+#Name? - A formula of function name isn't understood
+#Num! - A formula or function calculation can't be performed as specified by the data
+#Value! - A general error that could indicate a problem with formula or referenced cells
+#Ref! - A formula is referencing a cell that is no longer valid or has been deleted
