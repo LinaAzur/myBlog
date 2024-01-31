@@ -937,3 +937,5 @@ The quality and reliability of the data
 #Num! - A formula or function calculation can't be performed as specified by the data
 #Value! - A general error that could indicate a problem with formula or referenced cells
 #Ref! - A formula is referencing a cell that is no longer valid or has been deleted
+
+### Functions
