@@ -531,3 +531,21 @@ date: 2023-07-11
 - Recursión ~ Blake Crouch 
 
 
+## 2023
+#### Books
+##### January
+- La limpieza étnica de palestina ~ Ilan Pappé
+
+
+#### Audiobooks
+##### January
+- El arte de la guerra ~ Sun Tzu
+- ¡Guardias! ¿Guardias? ~Terry Pratchett
+- El imperio de los dragones ~ Valerio Massimo Manfredi
+- Hua hu ching (Meditaciones Taoístas) ~ Lao Tse
+- Tao te king ~ Lao Tse
+- Do it today ~ Darius Foroux
+- How to build self-discipline ~ Martin Meadowns
+- How to promote yourself ~ Wallace D. Wattles
+- Lucky person syndrome ~ Ngaslife collection 
+
