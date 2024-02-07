@@ -938,4 +938,21 @@ The quality and reliability of the data
 #Value! - A general error that could indicate a problem with formula or referenced cells
 #Ref! - A formula is referencing a cell that is no longer valid or has been deleted
 
-### Functions
+##### Calculating the change form one month to another
+
+> (first month - next month)/first month
+
+##### Summary the number of applicants in a range of time, given the records
+=COUNTIF('raw data'!G:G,A2)
+Count if G column in raw data sheet is the same as A2
+
+
+#### Problem domain
+The specific area of analysis that encompasses every activity affecting or affected by the problem
+
+
+#### Scope of work (SOW)
+An agreed-upon outline of the work you're going to perform in a project
+
+#### A statement of work
+ is a document that clearly identifies the products and services a vendor or contractor will provide to an organization. It includes objectives, guidelines, deliverables, schedule, and costs.
