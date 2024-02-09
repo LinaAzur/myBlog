@@ -956,3 +956,26 @@ An agreed-upon outline of the work you're going to perform in a project
 
 #### A statement of work
  is a document that clearly identifies the products and services a vendor or contractor will provide to an organization. It includes objectives, guidelines, deliverables, schedule, and costs.
+
+### Creating a scope of work
+-   **Deliverables**: What work is being done, and what things are being created as a result of this project? When the project is complete, what are you expected to deliver to the stakeholders? Be specific here. Will you collect data for this project? How much, or for how long?
+ -   **Milestones**: This is closely related to your timeline. What are the major milestones for progress in your project? How do you know when a given part of the project is considered complete?
+ 
+ -   **Timeline**: Your timeline will be closely tied to the milestones you create for your project. The timeline is a way of mapping expectations for how long each step of the process should take. The timeline should be specific enough to help all involved decide if a project is on schedule. When will the deliverables be completed? How long do you expect the project will take to complete? If all goes as planned, how long do you expect each component of the project will take? When can we expect to reach each milestone?
+
+-   **Reports**: Good SOWs also set boundaries for how and when you’ll give status updates to stakeholders. How will you communicate progress with stakeholders and sponsors, and how often? Will progress be reported weekly? Monthly? When milestones are completed? What information will status reports contain?
+
+
+
+### The importance of context
+-   Who: The person or organization that created, collected, and/or funded the data collection
+    
+-   What: The things in the world that data could have an impact on
+    
+-   Where: The origin of the data
+    
+-   When: The time when the data was created or collected
+    
+-   Why: The motivation behind the creation or collection
+    
+-   How: The method used to create or collect it
