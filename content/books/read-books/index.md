@@ -531,7 +531,7 @@ date: 2023-07-11
 - Recursión ~ Blake Crouch 
 
 
-## 2023
+## 2024
 #### Books
 ##### January
 - La limpieza étnica de palestina ~ Ilan Pappé
