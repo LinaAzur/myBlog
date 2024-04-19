@@ -979,3 +979,126 @@ An agreed-upon outline of the work you're going to perform in a project
 -   Why: The motivation behind the creation or collection
     
 -   How: The method used to create or collect it
+
+***Turnover rate***: The rate at which employees leave a company
+
+There are three common stakeholder groups that you might find yourself working with: the executive team, the customer-facing team, and the data science team.
+
+### Priority
+1. Who are the primary and secondary stakeholders?
+Probably de vice president of HR
+
+2. Who is managing the data?
+
+3. Where you can go for help?
+
+
+###### Vice president of sales
+
+The VP of sales provides strategic and operational direction but is less interested in specific details. Ning prepares questions ahead of time to focus on the key findings that the company expects from an annual sales report.
+
+#### Before you communicate, think about
+
+1. who your audice is
+2. What they already know
+3. What they need to know
+4. How  you can communicate that effectively to them
+
+
+#### Sometimes you have to know what they really want to know
+
+1. Reframe question
+2. Problems
+3. Challenges
+4. Solutions
+5. Timelines
+
+Redirecting the conversation will help you find the real problem which leads to more insightful and accurate solutions.
+
+Recomendations from Avinash Kaushik
+
+-   **Compare the same types of data**: Data can get mixed up when you chart it for visualization. Be sure to compare the same types of data and double check that any segments in your chart definitely display different metrics.
+    
+-   **Visualize with care**: A 0.01% drop in a score can look huge if you zoom in close enough. To make sure your audience sees the full story clearly, it is a good idea to set your Y-axis to 0.
+    
+-   **Leave out needless graphs:** If a table can show your story at a glance, stick with the table instead of a pie chart or a graph. Your busy audience will appreciate the clarity.
+    
+-   **Test for statistical significance:** Sometimes two datasets will look different, but you will need a way to test whether the difference is real and important. So remember to run statistical tests to see how much confidence you can place in that difference.
+    
+-   **Pay attention to sample size**: Gather lots of data. If a sample size is small, a few unusual responses can skew the results. If you find that you have too little data, be careful about using it to form judgments. Look for opportunities to collect more data, then chart those trends over longer periods.
+
+Are there other angles you haven't considered?
+Can you answer any questions that may get asked about your data and analysis?
+That last question brings up something else to think about.
+How detailed should you be when sharing your results?
+
+#### Meetings
+How a project is going
+Ask questions
+Bring what you need
+Reading the meeting agenda
+Prepare notes 
+Clear decision
+10 people 
+Dont
+
+If there's any conflict in your team or project:
+1. Try to reframe the problem by asking: how can i help you reach your goal?
+2. Ask questions like: Are there other important things i should be considering?
+3. Understand the context, try to ask questions like: What your end goal is? what story they're trying to tell with the data? What the big picture is?
+4. Instead of saying, "There's no way I can do that in this time frame," try to re-frame it by saying, "I would be happy to do that, but I'll just take this amount of time, let's take a step back so I can better understand what you'd like to do with the data and we can work together to find the best path forward."
+**Turnover rate:** The rate at which employees voluntarily leave a company
+
+
+# Prepare data for exploration
+
+### How data is collected
+- Interviews
+- Observations
+- Forms
+- Questionnaires
+- Surveys
+- Cookies
+
+**Data collection considerations**
+- How the data will be collected
+- Choose data sources
+- Decide what data to use
+- How much data to collect
+- Select the right data type
+- Determine the time frame
+
+
+**First-party data**
+Data collected by an individual or group using their own resources
+
+**Second-party data**
+Data collected by a group directly form it's audience and then sold
+
+
+**Third-party data**
+Data collected from outside sources who did not collect it directly
+
+
+Following are some data-collection considerations to keep in mind for your analysis:
+
+## How the data will be collected
+
+Decide if you will collect the data using your own resources or receive (and possibly purchase it) from another party. Data that you collect yourself is called first-party data.
+
+## Data sources
+
+If you don’t collect the data using your own resources, you might get data from second-party or third-party data providers. **Second-party data** is collected directly by another group and then sold. **Third-party data** is sold by a provider that didn’t collect the data themselves. Third-party data might come from a number of different sources.
+
+## Solving your business problem
+
+Datasets can show a lot of interesting information. But be sure to choose data that can actually help solve your problem question. For example, if you are analyzing trends over time, make sure you use time series data — in other words, data that includes dates.
+
+## How much data to collect
+
+If you are collecting your own data, make reasonable decisions about sample size. A random sample from existing data might be fine for some projects. Other projects might need more strategic data collection to focus on certain criteria. Each project has its own needs.
+
+## Time frame
+
+If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists.
+
