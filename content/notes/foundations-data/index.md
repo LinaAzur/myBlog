@@ -1102,3 +1102,243 @@ If you are collecting your own data, make reasonable decisions about sample size
 
 If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists.
 
+
+#### Discrete data 
+Data that is counted and has a limited number of values. Discrete like Discrete Maths
+
+#### Continuos data
+Data that is measured and can have almost any numeric value
+#### Nominal data
+A type of qualitative data that is categorized without a set order.
+"Yes"/"No"/"Idk"
+#### Ordinal data 
+A type of qualitative data with a set order or scale.
+If you asked a group of people to rank a movie from 1 to 5, some might rank it as a 2, others a 4, and so on. These rankings are in order of how much each person liked the movie.
+
+#### Internal data
+Data that lives within a company's own systems
+#### External data
+Data that lives and is generated outside of an organization
+
+#### Structured data
+Data organized in a certain format such as rows and columns
+
+#### Unstructured data
+Data that is not organized in any easily identifiable manner.
+Like audio, and video files  
+
+
+## Primary versus secondary data
+
+The following table highlights the differences between primary and secondary data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Primary data
+
+Collected by a researcher from first-hand sources
+
+-   Data from an interview you conducted - Data from a survey returned from 20 participants
+    
+-   Data from questionnaires you got back from a group of workers
+    
+
+Secondary data
+
+Gathered by other people or from other research
+
+-   Data you bought from a local data analytics firm’s customer profiles
+    
+-   Demographic data collected by a university
+    
+-   Census data gathered by the federal government
+    
+
+## Internal versus external data
+
+The following table highlights the differences between internal and external data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Internal data
+
+Data that is stored inside a company’s own systems
+
+-   Wages of employees across different business units tracked by HR
+    
+-   Sales data by store location
+    
+-   Product inventory levels across distribution centers
+    
+
+External data
+
+Data that is stored outside of a company or organization
+
+-   National average wages for the various positions throughout your organization
+    
+-   Credit reports for customers of an auto dealership
+    
+
+## Continuous versus discrete data
+
+The following table highlights the differences between continuous and discrete data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Continuous data
+
+Data that is measured and can have almost any numeric value
+
+-   Height of kids in third grade classes (52.5 inches, 65.7 inches)
+    
+-   Runtime markers in a video
+    
+-   Temperature
+    
+
+Discrete data
+
+Data that is counted and has a limited number of values
+
+-   Number of people who visit a hospital on a daily basis (10, 20, 200)
+    
+-   Maximum capacity allowed in a room
+    
+-   Tickets sold in the current month
+    
+
+## Qualitative versus quantitative data
+
+The following table highlights the differences between qualitative and quantitative data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Qualitative
+
+A subjective and explanatory measure of a quality or characteristic
+
+-   Favorite exercise activity
+    
+-   Brand with best customer service
+    
+-   Fashion preferences of young adults
+    
+
+Quantitative
+
+A specific and objective measure, such as a number, quantity, or range
+
+-   Percentage of board certified doctors who are women
+    
+-   Population size of elephants in Africa
+    
+-   Distance from Earth to Mars at a particular time
+    
+
+## Nominal versus ordinal data
+
+The following table highlights the differences between nominal and ordinal data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Nominal
+
+A type of qualitative data that is categorized without a set order
+
+-   First time customer, returning customer, regular customer
+    
+-   New job applicant, existing applicant, internal applicant
+    
+-   New listing, reduced price listing, foreclosure
+    
+
+Ordinal
+
+A type of qualitative data with a set order or scale
+
+-   Movie ratings (number of stars: 1 star, 2 stars, 3 stars)
+    
+-   Ranked-choice voting selections (1st, 2nd, 3rd)
+    
+-   Satisfaction level measured in a survey (satisfied, neutral, dissatisfied)
+    
+
+## Structured versus unstructured data
+
+The following table highlights the differences between structured and unstructured data and presents examples of each.
+
+**Data format classification**
+
+**Definition**
+
+**Examples**
+
+Structured data
+
+Data organized in a certain format, like rows and columns
+
+-   Expense reports
+    
+-   Tax returns
+    
+-   Store inventory
+    
+
+Unstructured data
+
+Data that cannot be stored as columns and rows in a relational database.
+
+-   Social media posts
+    
+-   Emails
+    
+-   Videos
+
+
+#### Data model 
+A model that is used for organizing data elements and how thay relate to one another.
+
+#### Sources of structured data
+- Spreadsheets
+- Databases that store datasets
+
+**Data modeling** is the process of creating diagrams that visually represent how data is organized and structured. These visual representations are called **data models**.
+A data model is used to organize data elements and how they relate to one another. Data elements are pieces of information, such as people’s names, account numbers, and addresses.
+
+
+1.  **Conceptual data modeling** gives a high-level view of the data structure, such as how data interacts across an organization. For example, a conceptual data model may be used to define the business requirements for a new database. A conceptual data model doesn't contain technical details.
+    
+2.  **Logical data modeling** focuses on the technical details of a database such as relationships, attributes, and entities. For example, a logical data model defines how individual records are uniquely identified in a database. But it doesn't spell out actual names of database tables. That's the job of a physical data model.
+    
+3.  **Physical data modeling** depicts how a database operates. A physical data model defines all entities and attributes used; for example, it includes table names, column names, and data types for the database.
+
+**Entity Relationship Diagram (ERD)** and the **Unified Modeling Language (UML)** diagram. ERDs are a visual way to understand the relationship between entities in the data model. UML diagrams are very detailed diagrams that describe the structure of a system by showing the system's entities, attributes, operations, and their relationships.
+
+#### Data type
+A specific kind of data attribute that tells what kind of value the data is.
+
+#### Data types in spreadsheets
+- Number
+- Text or string
+- Boolean
