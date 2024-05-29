@@ -7,4 +7,4 @@ cascade:
   invertPagination: true
 ---
 
-Todos los productos.
+Todos los productos disponibles.
