@@ -1,5 +1,5 @@
 ---
-title: "Technologies"
+title: "Productos"
 
 cascade:
   showDate: false
@@ -7,4 +7,4 @@ cascade:
   invertPagination: true
 ---
 
-Technology related posts.
+Todos los productos.
