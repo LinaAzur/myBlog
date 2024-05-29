@@ -11,24 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Technology"
-  pageRef = "technology"
+  name = "Productos"
+  pageRef = "products"
   weight = 10
 
 [[main]]
-  name = "Books"
-  pageRef = "books"
+  name = "Sobre mi"
+  pageRef = "about"
   weight = 20
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 30
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/Jucaski"
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://facebook.com/user"
   weight = 400
 
 

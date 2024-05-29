@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jucaski"
+title = "Venta de productos"
 
 [params]
   displayName = "EN"
@@ -10,16 +10,16 @@ title = "Jucaski"
   dateFormat = "2 January 2006"
    logo = "img/comp.PNG"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "My awesome website"
+   description = "Mi página"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "Jucaski"
-   image = "img/fishes.jpeg"
-   headline = "~Hello World!"
-   bio = "The time is now."
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   name = "Venta de productos"
+   image = "img/back.jpg"
+   headline = "Mi propia página"
+   bio = "Hola Mundo!"
+   links = [
+     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -28,14 +28,14 @@ title = "Jucaski"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
+     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/username" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
@@ -44,7 +44,7 @@ title = "Jucaski"
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
-#     { patreon = "https://www.patreon.com/username" },
+     { patreon = "https://www.patreon.com/username" },
 #     { pinterest = "https://pinterest.com/username" },
 #     { reddit = "https://reddit.com/user/username" },
 #     { researchgate = "https://www.researchgate.net/profile/username" },
@@ -53,12 +53,12 @@ title = "Jucaski"
 #     { soundcloud = "https://soundcloud.com/username" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
-#     { telegram = "https://t.me/username" },
+     { telegram = "https://t.me/username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-#     { twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
+     { twitter = "https://twitter.com/username" },
+     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
