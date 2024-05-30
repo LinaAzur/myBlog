@@ -1,21 +1,21 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Venta de productos"
+title = "PolymAG"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-   logo = "img/blowfish_logo.PNG"
-  # secondaryLogo = "img/secondary-logo.png"
+   logo = "img/logopng.PNG"
+   #secondaryLogo = "img/bg.jpg"
    description = "Mi página"
    copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "Venta de productos"
-   image = "img/back.jpg"
+   name = "PolymAG"
+   image = "img/logoK.png"
    headline = "Mi propia página"
    bio = "Hola Mundo!"
    links = [
