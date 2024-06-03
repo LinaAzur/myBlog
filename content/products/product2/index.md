@@ -28,4 +28,4 @@ Suspendisse hendrerit sapien sed fringilla lobortis. In vulputate enim in tellus
 
 Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vitae dui aliquam, sed porta tortor viverra. Nullam molestie nulla in metus volutpat luctus. Vivamus a auctor mi, sed molestie est. Nam tempor enim a tellus rhoncus, in condimentum nisi scelerisque. Maecenas eget leo facilisis, lacinia dolor a, faucibus est. Nam aliquam sem eu lacus elementum, vel hendrerit mi imperdiet.
 
-
+<iframe src="model/model.html" width="100%" height="700px"></iframe>
