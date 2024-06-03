@@ -26,4 +26,4 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
 
 
 
-<iframe src="test.html" width="100%" height="700px"></iframe>
+<iframe src="model/model.html" width="100%" height="700px"></iframe>
