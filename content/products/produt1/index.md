@@ -24,6 +24,140 @@ Suspendisse hendrerit sapien sed fringilla lobortis. In vulputate enim in tellus
 
 Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vitae dui aliquam, sed porta tortor viverra. Nullam molestie nulla in metus volutpat luctus. Vivamus a auctor mi, sed molestie est. Nam tempor enim a tellus rhoncus, in condimentum nisi scelerisque. Maecenas eget leo facilisis, lacinia dolor a, faucibus est. Nam aliquam sem eu lacus elementum, vel hendrerit mi imperdiet.
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="row">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100"
+            src="https://plus.unsplash.com/premium_photo-1684407617236-c60dc693293a?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Esta es una imagen</h5>
+            <p>Esta es su descripción</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Third slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1559056199-641a0ac8b55e?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Fourth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Fifth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1487700160041-babef9c3cb55?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Sixth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=2967&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Seventh slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1518131672697-613becd4fab5?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Eighth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1625948515291-69613efd103f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Nineth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1619008054959-921a896885c7?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Tenth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Eleventh slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Twelveth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1526947425960-945c6e72858f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Thirteenth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1576426863848-c21f53c60b19?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Fourteenth slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt="Fifteenth slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+</body>
+
+
+
 
 
 <iframe src="model/model.html" width="100%" height="700px"></iframe>

@@ -1,0 +1,11 @@
+a {
+  color: inherit!important;
+}
+
+a:hover{
+  text-decoration: none!important;
+}
+
+nav{
+  align-items: baseline !important;
+}
