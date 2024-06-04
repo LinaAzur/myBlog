@@ -13,3 +13,7 @@ nav{
 .order-first{
   order: 9999;
 }
+
+.medium-zoom-image{
+  width: 685.078px!important;
+}
