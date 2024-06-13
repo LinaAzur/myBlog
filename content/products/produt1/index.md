@@ -58,82 +58,123 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="https://plus.unsplash.com/premium_photo-1684407617236-c60dc693293a?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/BOMAC_RECTANGULAR.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Esta es una imagen</h5>
-            <p>Esta es su descripción</p>
+            <h5>BOMAC RECTANGULAR</h5>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/cocol_4.jpg"
             alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>COCOL 4</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/cocol_10.jpg"
             alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>COCOL 10</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1559056199-641a0ac8b55e?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/cople_8_bujes.jpg"
             alt="Fourth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>COPLE 8 BUJES</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/cople_ventilador.jpg"
             alt="Fifth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>COPLE VENTILADOR</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1487700160041-babef9c3cb55?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/soporte_bomag.jpg"
             alt="Sixth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE BOMAG</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=2967&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/soporte_cuello.jpg"
             alt="Seventh slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE CUELLO</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1518131672697-613becd4fab5?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/SOPORTE_INGERSON_I001.jpg"
             alt="Eighth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE INGERSON I001</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1625948515291-69613efd103f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/SOPORTE_PARA_RETROEXCAVADORA_MEDIA_LUNA.jpg"
             alt="Nineth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE PARA RETROEXCAVADORA MEDIA LUNA</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1619008054959-921a896885c7?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/SOPORTE_RETROEXCAVADORA.jpg"
             alt="Tenth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE RETROEXCAVADORA</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/SOPORTE_TAMPO_MACHO.jpg"
             alt="Eleventh slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>SOPORTE TAMPO MACHO</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/TAMPO_HEMBRA.jpg"
             alt="Twelveth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>TAMPO HEMBRA</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1526947425960-945c6e72858f?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/TAMPO_PACS_BOMBAC.jpg"
             alt="Thirteenth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>TAMPO PACS BOMBAC</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1576426863848-c21f53c60b19?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/TEMATERRA.jpg"
             alt="Fourteenth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>TEMATERRA</h5>
+          </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="imges/YAP70_VIBROCUPACTADOR.jpg"
             alt="Fifteenth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>YAP70 VIBROCUPACTADOR</h5>
+          </div>
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
