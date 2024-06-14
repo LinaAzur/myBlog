@@ -53,7 +53,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1017.jpg"
+            src="imges/dsc-1017.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>YAP70 Vibrocupactador</h5>

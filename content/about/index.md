@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Sobre mi"
 date: 2024-05-28
 ---
 

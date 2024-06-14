@@ -62,7 +62,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1051.jpg"
+            src="imges/dsc-1051.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Tampo Pacs Bombac</h5>
