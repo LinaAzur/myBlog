@@ -82,7 +82,15 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
 </body>
 
 
-
+<script>
+  setTimeout(() => {
+    var element = document.getElementById("search-button");
+    var divElement = document.getElementById('search-wrapper');
+    element.onclick = function() {
+      divElement.style.setProperty('visibility', 'visible', 'important');
+  }
+}, "1000");
+</script>
 
 
 <iframe src="model/model.html" width="100%" height="700px"></iframe>

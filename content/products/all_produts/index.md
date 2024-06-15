@@ -198,7 +198,15 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
     crossorigin="anonymous"></script>
 </body>
 
-
+<script>
+  setTimeout(() => {
+    var element = document.getElementById("search-button");
+    var divElement = document.getElementById('search-wrapper');
+    element.onclick = function() {
+      divElement.style.setProperty('visibility', 'visible', 'important');
+  }
+}, "1000");
+</script>
 
 
 
