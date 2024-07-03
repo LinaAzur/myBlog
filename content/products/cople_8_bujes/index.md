@@ -42,6 +42,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -65,7 +66,15 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/DSC_1065.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Cople 8 Bujes0</h5>
+            <h5>Cople 8 Bujes</h5>
+          </div>
+        </div>
+         <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/COPLE_8_BUJES.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Cople 8 Bujes</h5>
           </div>
         </div>
       </div>
@@ -89,7 +98,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
 </body>
-
+COPLE_8_BUJES.JPG
 
 <script>
   setTimeout(() => {
