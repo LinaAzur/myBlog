@@ -1,5 +1,5 @@
 ---
-title: "YAP70 Vibrocupactador"
+title: "VAP70 Vibrocupactador"
 description: ""
 date: 2024-05-28
 cascade:
@@ -41,6 +41,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -48,7 +49,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/DSC_1038.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>YAP70 Vibrocupactador</h5>
+            <h5>VAP-70</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -56,7 +57,15 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/dsc-1017.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>YAP70 Vibrocupactador</h5>
+            <h5>VAP-70</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/VAP-70.JPG"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>VAP-70</h5>
           </div>
         </div>
       </div>
