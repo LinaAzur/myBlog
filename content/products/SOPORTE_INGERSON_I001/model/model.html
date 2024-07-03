@@ -10,13 +10,25 @@
   </head> 
 <body>
   <div id="card">
-    <model-viewer src="Astronaut.glb"
-                  alt="A 3D model of an astronaut"
+   <model-viewer id="l001"
+                  src="l-001.glb"
+                  alt="Boomag Rectangular"
                   shadow-intensity="1"
                   camera-controls
-                  auto-rotate ar>
+                  camera-orbit="133.4deg 82.98deg 626.5m"
+                  auto-rotate ar
+                  ar-modes="webxr scene-viewer quick-look" >
     </model-viewer>    
   </div>
+    <script>
+      const modelViewerl001 = document.querySelector("model-viewer#l001");
+      modelViewerl001.addEventListener("load", (ev) => {
+        let material = modelViewerl001.model.materials[0];
+        material.pbrMetallicRoughness.setBaseColorFactor("#eeeeee");
+        material.pbrMetallicRoughness.setMetallicFactor(0.73);
+        material.pbrMetallicRoughness.setRoughnessFactor(0.5);
+      });
+    </script>
   <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </body>
 </html>
