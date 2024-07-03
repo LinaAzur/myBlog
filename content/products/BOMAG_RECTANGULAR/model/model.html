@@ -10,20 +10,20 @@
   </head> 
 <body>
   <div id="card">
-    <model-viewer id="astronaut"
-                  src="Astronaut.glb"
-                  alt="A 3D model of an astronaut"
+    <model-viewer id="bomag"
+                  src="bomag.glb"
+                  alt="Boomag Rectangular"
                   shadow-intensity="1"
                   camera-controls
-                  camera-orbit="-30.98deg 77.8deg 374.2m"
+                  camera-orbit="133.4deg 82.98deg 626.5m"
                   auto-rotate ar
                   ar-modes="webxr scene-viewer quick-look" >
     </model-viewer>    
   </div>
     <script>
-      const modelViewer = document.querySelector("model-viewer#astronaut");
-      modelViewer.addEventListener("load", (ev) => {
-        let material = modelViewer.model.materials[0];
+      const modelViewerBomac = document.querySelector("model-viewer#bomag");
+      modelViewerBomac.addEventListener("load", (ev) => {
+        let material = modelViewerBomac.model.materials[0];
         material.pbrMetallicRoughness.setBaseColorFactor("#eeeeee");
         material.pbrMetallicRoughness.setMetallicFactor(0.73);
         material.pbrMetallicRoughness.setRoughnessFactor(0.5);

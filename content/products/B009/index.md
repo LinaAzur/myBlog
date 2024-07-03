@@ -58,7 +58,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/DSC_1069.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Soporte Bomag</h5>
+            <h5>B-009</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -66,7 +66,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/DSC_1070.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Soporte Bomag</h5>
+            <h5>B-009</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -74,7 +74,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/B-009.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Soporte Bomag</h5>
+            <h5>B-009</h5>
           </div>
         </div>
       </div>
