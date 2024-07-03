@@ -1,5 +1,5 @@
 ---
-title: "Soporte Bomag"
+title: "B-009"
 description: ""
 date: 2024-05-28
 cascade:
@@ -42,6 +42,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -49,7 +50,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
             src="imges/DSC_1034.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Soporte Bomag</h5>
+            <h5>B-009</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -63,6 +64,14 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/DSC_1070.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Soporte Bomag</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/B-009.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Soporte Bomag</h5>
