@@ -1,16 +1,40 @@
 ---
-title: "Sobre mi"
+title: "Sobre nosotros"
 date: 2024-05-28
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed placerat arcu. Maecenas mi diam, accumsan eget lacus quis, vestibulum semper felis. Morbi id ultrices ipsum, ac accumsan justo. Mauris ac ex diam. Suspendisse dictum tincidunt tortor et lobortis. Quisque sed purus nisl. Nullam non diam at erat varius euismod. Nam auctor urna sed nibh aliquet pulvinar. Proin non aliquam odio. Sed eleifend dictum felis ut lacinia. Etiam ut porttitor urna, nec sagittis odio.
+### MISIÓN
+Ser, en México la empresa líder en venta de refacciones para maquinaria pesada, maquinaria ligera, servicio de vulcanizado y  piezas especiales, basado en un alto sentido de compromiso hacia sus clientes, buscando como objetivo principal proveerles soluciones especializadas satisfactorias a sus necesidades, logrando todo ello a través del trabajo en equipo de sus colaboradores, generando el crecimiento integral de ambas partes, lo cual de como resultado la obtención de los objetivos a corto, mediano y largo plazo establecidos de manera integral.
 
-Vestibulum laoreet pretium ipsum eget commodo. Morbi commodo ac massa eu sodales. Pellentesque id turpis quis nibh ullamcorper tempor nec non enim. Donec quis rutrum nisi, vitae semper leo. Nulla fringilla facilisis dignissim. Integer commodo sodales dui, id vestibulum est eleifend et. Donec imperdiet, orci sed convallis vulputate, libero ligula luctus sem, in venenatis felis est ac dui. Aenean sagittis ex vestibulum dolor eleifend, quis iaculis sapien gravida. Suspendisse metus diam, tristique at porttitor vel, bibendum sit amet arcu. Ut felis neque, lacinia et porta at, sodales at leo. Nunc et consequat sem, id lacinia velit. Suspendisse nec fringilla massa, at mollis nibh.
+### VISIÓN
+Nos vemos con la empresa líder dentro del mercado local, que logra satisfacer enteramente las necesidades de sus clientes a través de las mejores soluciones especializadas en el menor tiempo, la mejor calidad y con el mejor talento humano.
 
-Aliquam ornare aliquam lacus, at consectetur mauris venenatis fringilla. Duis laoreet nunc lorem, at semper velit eleifend non. Nam condimentum elit tortor, sit amet tristique leo luctus vitae. Nam pellentesque augue quis dolor volutpat porttitor. Duis sed pellentesque velit, eget viverra augue. Aliquam non arcu sit amet mi consectetur sollicitudin sed nec nisl. Nulla facilisi. Nulla a elementum ipsum, efficitur tempor nibh. Proin vel tincidunt dolor.
+### FILOSOFÍA
+Somos una empresa de venta de soportes cuya práctica esta basada en una estructura de VALORES conformada por:
 
-Morbi pellentesque venenatis ligula, quis bibendum nisl mattis a. Nulla efficitur ipsum id mauris vehicula, id sollicitudin lacus aliquam. Curabitur sit amet risus volutpat, tempor metus ut, condimentum tellus. Praesent commodo mattis neque, vitae facilisis odio luctus vitae. Aenean tristique mi dictum velit accumsan sollicitudin quis at erat. Nulla vulputate sem at condimentum laoreet. Mauris a sapien eget ante feugiat scelerisque at in ipsum. Duis a augue massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis auctor maximus sem ut volutpat. Nam magna augue, ullamcorper sit amet nisi sit amet, pulvinar accumsan ligula. Vestibulum auctor lectus quam, nec iaculis sapien condimentum sit amet. Aenean sit amet lorem ornare, luctus purus a, bibendum risus. Sed vestibulum luctus imperdiet. Vestibulum scelerisque diam sed imperdiet accumsan.
 
-Morbi scelerisque arcu eu nibh suscipit, sed pretium sapien mattis. Maecenas suscipit eget tortor in euismod. Integer ornare suscipit blandit. Suspendisse hendrerit nunc neque, quis varius odio lobortis vitae. Sed nibh ante, malesuada sed egestas in, aliquet eget nulla. Maecenas sed lacinia enim, vitae rhoncus orci. Praesent pellentesque vitae turpis nec molestie. Ut ac mi neque.
-
-In ut pharetra enim. Pellentesque ullamcorper, nunc eu vulputate vestibulum, orci nisi tristique nisl, et tincidunt erat ante id nunc. Vivamus cursus, leo id suscipit finibus, orci tellus euismod lorem, ac interdum diam odio id dui. Duis diam lectus, euismod sed volutpat at, porta eu dolor. Proin neque nisi, mollis vitae leo eget, dignissim imperdiet elit. Quisque sed quam mollis, varius urna ac, semper quam. Sed nec varius nulla.
+- **HONESTIDAD:** Desarrollar el trabajo basado en las mejores prácticas las cuales deriven en la plena satisfacción del cliente.													
+                          
+- **CONFIABILIDAD:** Brindar las mejores soluciones a los problemas que se presenten en sus refacciones.													
+                          
+- **COMPROMISO:** Constancia y congruencia de las acciones a realizar.													
+                          
+- **RESPONSABILIDAD:** Emprender acciones estrictamente fundamentadas en revisiones y fundamentos sólidos de que el trabajo a realizarse es la mejor acción.													
+                          
+- **PROACTIVIDAD:** Mediante la atención constante a las necesidades de sus equipos.													
+                          
+- **VISIONARIOS:** Manejando un esquema de trabajo propositivo, que nos permita generar beneficios constantes para la maquinaria.													
+                          
+- **TRABAJO EN EQUIPO:** A fin de desarrollar las mejores prácticas para la solución integral de las necesidades.													
+                          
+- **PRÁCTICOS:** Optimizar los recursos, buscando entregar el mejor producto.													
+                          
+- **ATENCIÓN PERSONALIZADA:** Por la comunicación constante que existirá para la solución de las necesidades que nuestro cliente nos haga llegar.													
+                          
+- **TENACIDAD:** Por el trabajo constante que existirá que permitirá liberar las entregar en tiempo y forma.													
+                          
+- **CALIDAD:** Porque siempre buscaremos superar sus expectativas, para satisfacer sus necesidades.													
+                          
+- **SERVICIO:** Porque nuestro esfuerzo esta focalizado en la satisfacción de sus necesidades.													
+                          
+- **EMPATIA:** Porque sus comentarios y sugerencias serán atendidas para buscar la mejor solución a sus necesidades.													
