@@ -15,10 +15,51 @@
   pageRef = "products"
   weight = 10
 
+  [[main]]
+  name = "Maquinaria pesada"
+  parent = "Productos"
+  pageRef = "products/B009"
+  weight = 10
+
+[[main]]
+  name = "Maquinaria Ligera"
+  parent = "Productos"
+  pageRef = "samples"
+  weight = 10
+
+[[main]]
+  name = "Martillo"
+  parent = "Productos"
+  pageRef = "samples"
+  weight = 10
+
+[[main]]
+  name = "Coples para Compresora / Servicio para Vulcanizadora"
+  parent = "Productos"
+  pageRef = "samples"
+  weight = 10
+
+[[main]]
+  name = "Retroexcavadoras"
+  parent = "Productos"
+  pageRef = "samples"
+  weight = 10
+
+[[main]]
+  name = "Cañuela"
+  parent = "Productos"
+  pageRef = "samples"
+  weight = 10
+
 [[main]]
   name = "Sobre nosotros"
   pageRef = "about"
   weight = 20
+
+[[main]]
+  name = "Contacto"
+  pageRef = "contact"
+  weight = 30
 
 [[main]]
   identifier = "facebook"

@@ -38,3 +38,6 @@ Somos una empresa de venta de soportes cuya práctica esta basada en una estruct
 - **SERVICIO:** Porque nuestro esfuerzo esta focalizado en la satisfacción de sus necesidades.													
                           
 - **EMPATIA:** Porque sus comentarios y sugerencias serán atendidas para buscar la mejor solución a sus necesidades.													
+
+### VALORES
+Honestidad, Estabilidad, Tranquilidad, Calidad, Comodidad, Seguridad Confiabilidad, fiabilidad, para usted y su inmueble

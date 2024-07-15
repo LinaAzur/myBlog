@@ -5,25 +5,327 @@ date: 2024-05-29
 cascade:
   showReadingTime: true
 ---
-## Titulo 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id cursus erat, sit amet congue dolor. Suspendisse vitae ultrices tortor. Morbi fringilla condimentum pharetra. Donec augue diam, viverra non orci vel, rutrum iaculis ex. Nam at neque bibendum, dignissim lacus eu, accumsan nulla. Sed vel nulla vel ipsum tincidunt vestibulum vestibulum sed nunc. Phasellus sit amet mauris nunc. Ut laoreet vehicula sollicitudin. Mauris cursus hendrerit libero, quis placerat nunc rutrum at. Pellentesque volutpat libero ut malesuada laoreet. Morbi porttitor maximus dignissim. Mauris gravida hendrerit odio, et rutrum diam porttitor eu.
+## Maquinaria pesada
+<table class="table-image">
+<thead>
+  <tr >
+    <td>Marca</td>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="col-1">Bomag</td>
+      <td class="col-2">Soporto / Amortuador BOGAM</td>
+      <td class="col-5">
+        <img src="imges/soporte_bomag.jpg" class="" alt="Sheep">
+      </td>
+      <td class="col-4">
+        <p>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Bomag</td>
+      <td>Soporto / Amortuador BOGAM Rectangular</td>
+      <td>
+        <img src="imges/BOMAC_RECTANGULAR.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Ingerson</td>
+      <td>Soporto / Amortuador INGERSON</td>
+      <td>
+        <img src="imges/SOPORTE_INGERSON_I001.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Tampo</td>
+      <td>Soporto / Amortuador hembra TAMPO</td>
+      <td>
+        <img src="imges/TAMPO_HEMBRA.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Tampo</td>
+      <td>Soporto / Amortuador macho TAMPO</td>
+      <td>
+        <img src="imges/SOPORTE_TAMPO_MACHO.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Tematerra</td>
+      <td>Soporto / Amortuador macho TEMATERRA</td>
+      <td>
+        <img src="imges/TEMATERRA.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Vibrocompactadores</td>
+      <td>Soporte / Amortiguador DYNAPAC</td>
+      <td>
+        <img src="imges/soporte_cuello.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Vibrocompactadores</td>
+      <td>Soporte / Amortiguador JCB</td>
+      <td>
+        <img src="imges/cocol_10.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+    <tr>
+      <td>Vibrocompactadores</td>
+      <td>Soporto / Amortuador MULLER | VAP-70</td>
+      <td>
+        <img src="imges/YAP70_VIBROCUPACTADOR.jpg" class="" alt="Sheep">
+      </td>
+      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+    </tr>
+  </tbody>
+</table> 
 
-Sed orci turpis, viverra non mi eu, bibendum lacinia enim. Ut bibendum facilisis lectus, vel laoreet arcu porta in. Nullam ut est placerat, blandit velit id, accumsan ipsum. Suspendisse sed dapibus elit, ut lobortis nunc. Nunc pretium lectus lectus, non auctor nisi gravida vitae. Curabitur iaculis velit ligula, at faucibus risus bibendum hendrerit. Vivamus ornare mollis leo, in malesuada lectus bibendum non. Donec ut risus malesuada, condimentum metus eu, feugiat massa. Fusce eu risus lectus. Vestibulum eu est est. Maecenas sed tortor in lacus fringilla interdum. Aliquam sem quam, consectetur quis aliquam eget, vulputate vel tortor.
 
-Vivamus tellus sem, bibendum nec urna eget, pulvinar condimentum massa. Cras vel porta nibh. Maecenas vitae consectetur turpis, nec aliquet massa. Aenean ornare pulvinar tristique. Praesent volutpat arcu justo, non fringilla erat lobortis eget. Quisque at mi neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla, enim non aliquam tincidunt, eros mi ultricies tellus, sit amet volutpat eros sem ac sapien. Quisque accumsan tincidunt nunc rutrum cursus. Donec accumsan eu nulla eu maximus. Vestibulum vel blandit ipsum. Nullam aliquet dui vitae leo venenatis commodo. Vivamus fermentum orci ut turpis tristique fermentum in id massa.
 
-## Titulo 2
-Fusce posuere rutrum dapibus. Phasellus porta est eu lacus fermentum, in hendrerit nibh porta. Nulla et consequat tellus. Curabitur quam nisl, scelerisque vel aliquet ut, efficitur commodo ipsum. Suspendisse ut vulputate massa. Mauris et imperdiet ex, eu laoreet tortor. Proin sollicitudin nisl risus, in tincidunt nulla bibendum eu. Pellentesque non ultricies magna, eu pellentesque orci. Maecenas maximus non felis eget sodales. Nulla mauris lacus, auctor vel molestie eu, volutpat rhoncus sem.
 
-Aenean congue lectus a neque commodo laoreet. Quisque ut ante at magna vehicula pharetra. Sed lobortis nulla et magna auctor aliquet. Suspendisse ut massa id purus iaculis consequat nec sed nisl. Phasellus pellentesque diam vel purus malesuada fermentum. Cras sodales felis blandit, facilisis lorem sagittis, viverra augue. Integer condimentum mi erat, sed tristique nibh elementum eget. Cras eu ipsum non dui posuere maximus. Curabitur eget sollicitudin nulla, a euismod augue. Proin ac malesuada velit. Fusce efficitur bibendum risus, at tincidunt nisi maximus laoreet. Nullam quis tristique nisi. Pellentesque semper nulla et felis varius, ut tempor quam mollis. Nulla facilisi.
+## Maquinaria Ligera
 
-Sed vel massa vel tellus condimentum hendrerit. Fusce euismod quis ante eu eleifend. Aliquam sit amet dui velit. Vestibulum convallis sem eget congue hendrerit. Pellentesque mollis tortor nec ultricies faucibus. Mauris ut eleifend dolor. Nullam lobortis diam nec velit tempor finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus lobortis ultricies lacinia. Quisque nec elementum leo. Pellentesque vitae mauris pretium, semper orci vel, suscipit ipsum. Cras odio urna, pellentesque ut ligula eu, finibus efficitur nulla.
+<table class="table-image">
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+      <td class="col-3">Bailarinas para Manubrio WACKER / MIKASA</td>
+      <td class="col-4"> -
+        <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+      </td>
+      <td class="col-4">
+        <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </p>
+      </td>
+  </tr>  
+  <tr>
+    <td>Bailarinas para Manubrio WACKER / MIKASA</td>
+    <td>-
+    <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+  </tr>
+  <tr>
+    <td>Cople de ventilador DYNAPAC</td>
+    <td>
+      <img src="imges/cople_ventilador.jpg" class="" alt="Sheep">
+    </td>
+    <td>Cople ventilador.</td>
+  </tr>
+  <tr>
+    <td>Soporte / Amortiguador PR8 doble tornillo</td>
+    <td>-
+     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción.</td>
+  </tr>
+  <tr>
+    <td>Soporte / Amortiguador muertito para PR8</td>
+    <td>-
+     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+  </tr>
+  <tr>
+    <td>Soporte / Amortiguador para rodillo vibratorio PR8 </td>
+    <td>-
+    <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+  </tr>
+</table>
 
-## Titulo 3
-### Subtitulo 1
-Suspendisse hendrerit sapien sed fringilla lobortis. In vulputate enim in tellus consequat porttitor. In lacus est, aliquet non ligula ut, ultricies varius massa. Vivamus elementum lacus vitae nunc vulputate, eget consequat neque maximus. Nullam convallis ornare orci, sit amet tempor nunc mattis eget. Aenean a dui odio. Vestibulum imperdiet, tortor vel feugiat eleifend, turpis nunc pretium tortor, eget lobortis orci ligula pulvinar tortor. Maecenas lacus dolor, posuere eget tincidunt ut, luctus sit amet ex. Sed sodales aliquam diam, nec rutrum sapien porttitor quis. Aliquam vestibulum tortor elit, ac vulputate arcu consectetur et. In mauris lacus, mattis eget vulputate in, laoreet in leo. Maecenas maximus vestibulum ipsum eu pellentesque. Integer faucibus pharetra est nec faucibus. Maecenas ut dui venenatis, viverra risus at, laoreet quam. Donec pulvinar mi mauris, sed auctor magna consequat at.
+<table class="table-image">
+  <tr>
+    <td>Marca</td>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td class="col-1">Cartepillar</td>
+    <td class="col-2">Cople 8 bujes CARTEPILLAR</td>
+    <td class="col-5">
+      <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep">
+    </td>
+    <td class="col-4">
+      <p>Cople de hule con 8 bujes metálicos con media cuerda.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Raygo</td>
+    <td>Cople 6 bujes RAYGO</td>
+    <td>-
+      <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Cople de hule con 6 bujes metálicos lisos.</td>
+  </tr>
+</table>
 
-Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vitae dui aliquam, sed porta tortor viverra. Nullam molestie nulla in metus volutpat luctus. Vivamus a auctor mi, sed molestie est. Nam tempor enim a tellus rhoncus, in condimentum nisi scelerisque. Maecenas eget leo facilisis, lacinia dolor a, faucibus est. Nam aliquam sem eu lacus elementum, vel hendrerit mi imperdiet.
+
+## Martíllo		
+<table>
+  <tr>
+    <td>Marca</td>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>NPK</td>
+    <td>Servicio de vulcanizado lateral NPK</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Servicio de vulcanizado para suspensión de martillo hidraúlico NPK</td>
+  </tr>
+</table>
+
+## Coples para Compresora / Servicio para Vulcanizadora
+
+<table>
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>Servicio de vulcanizado para sombrero / bacinica</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Servicio de vulcanizado para acomplador tipo sombrero para compresor.</td>
+  </tr>
+  <tr>
+    <td>Servicio de vulcanizado para volante</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Servicio de vulcanizado para acomplador tipo volante para compresor</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Marca</td>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>ATLAS</td>
+    <td>Servicio de vulcanizado para sombrero / bacinica ATLAS</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Servicio de vulcanizado para acomplador para compresor.</td>
+  </tr>
+</table>
+
+## Retroexcavadoras
+
+<table class="table-image">
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td class="col-3">Soporte para brazo medio</td>
+    <td class="col-5">
+      <img src="imges/SOPORTE_PARA_RETROEXCAVADORA_MEDIA_LUNA.jpg" class="" alt="Sheep">
+    </td>
+    <td class="col-4">
+      <p>Soporte de hule para brazo en retroexcavadoras.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="col-3">Soporte para brazo plano</td>
+    <td class="col-5">
+      <img src="imges/SOPORTE_RETROEXCAVADORA.jpg" class="" alt="Sheep">
+    </td>
+    <td class="col-4">
+      <p>Soporte de hule para brazo en retroexcavadoras.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Marca</td>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>Retroexcavadora</td>
+    <td>Hongos para retroexcavadora</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+## Cañuela
+
+<table>
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>Cañuela para criba diamante</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
+  </tr>
+  <tr>
+    <td>Cañuela para criba gota</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Cañuela de hule con tamaño de ranura en espesosr de 1/4", 3/8", 1/2", 5/8".</td>
+  </tr>
+  <tr>
+    <td>Cañuela para criba redonda</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
+  </tr>
+  <tr>
+    <td>Hule Almorite</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Rollo de hule almorite de 1.20 x 10 ó 15 metros de largo en espesor de 1/4", 3/8" y 1/2".</td>
+  </tr>
+  <tr>
+    <td>Hule faldon</td>
+    <td>-
+    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    </td>
+    <td>Rollo de hule faldon resistente a la abrasión utilizado para amotiguar vibraciones entre dos elementos, ancho disponible en 2", 3", 4", 6", 8", 10", 12", 20", 24", 28", 40" y 48". Largo disponible 15 metros y espesor de 1/4" a 1".</td>
+  </tr>
+</table>
 
 <head>
   <meta charset="UTF-8">
@@ -31,172 +333,7 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
-  
-  <title>Document</title>
 </head>
-
-<body>
-  <div class="row">
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100"
-            src="imges/BOMAC_RECTANGULAR.jpg"
-            alt="First slide">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>BOMAC RECTANGULAR</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/cocol_4.jpg"
-            alt="Second slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>COCOL 4</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/cocol_10.jpg"
-            alt="Third slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>COCOL 10</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/cople_8_bujes.jpg"
-            alt="Fourth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>COPLE 8 BUJES</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/cople_ventilador.jpg"
-            alt="Fifth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>COPLE VENTILADOR</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/soporte_bomag.jpg"
-            alt="Sixth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE BOMAG</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/soporte_cuello.jpg"
-            alt="Seventh slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE CUELLO</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/SOPORTE_INGERSON_I001.jpg"
-            alt="Eighth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE INGERSON I001</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/SOPORTE_PARA_RETROEXCAVADORA_MEDIA_LUNA.jpg"
-            alt="Nineth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE PARA RETROEXCAVADORA MEDIA LUNA</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/SOPORTE_RETROEXCAVADORA.jpg"
-            alt="Tenth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE RETROEXCAVADORA</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/SOPORTE_TAMPO_MACHO.jpg"
-            alt="Eleventh slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>SOPORTE TAMPO MACHO</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/TAMPO_HEMBRA.jpg"
-            alt="Twelveth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>TAMPO HEMBRA</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/TAMPO_PACS_BOMBAC.jpg"
-            alt="Thirteenth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>TAMPO PACS BOMBAC</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/TEMATERRA.jpg"
-            alt="Fourteenth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>TEMATERRA</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/YAP70_VIBROCUPACTADOR.jpg"
-            alt="Fifteenth slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>YAP70 VIBROCUPACTADOR</h5>
-          </div>
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
-  </div>
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
-    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-    crossorigin="anonymous"></script>
-</body>
 
 <script>
   setTimeout(() => {
@@ -207,7 +344,3 @@ Mauris consequat urna turpis, at tristique nunc placerat vel. In dictum massa vi
   }
 }, "1000");
 </script>
-
-
-
-<iframe src="model/model.html" width="100%" height="700px"></iframe>

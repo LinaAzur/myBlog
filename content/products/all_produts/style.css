@@ -8,14 +8,17 @@ a:hover{
 
 nav{
   align-items: baseline !important;
+  padding-top: 20px!important;
 }
 
 .order-first{
   order: 9999;
 }
 
-.medium-zoom-image{
-  width: 685.078px!important;
+.table-image {
+  td, th {
+    vertical-align: middle;
+  }
 }
 
 .carousel-caption{
