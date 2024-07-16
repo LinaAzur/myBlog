@@ -31,7 +31,7 @@ cascade:
     <tr>
       <td>Bomag</td>
       <td>
-        <a href="../heavy/bomag/">Soporto / Amortuador BOGAM Rectangular</a>
+        <a href="../heavy/bomag_rectangular/">Soporto / Amortuador BOGAM Rectangular</a>
       </td>
       <td>
         <img src="imges/BOMAC_RECTANGULAR.jpg" class="" alt="Sheep">
@@ -40,7 +40,9 @@ cascade:
     </tr>
     <tr>
       <td>Ingerson</td>
-      <td>Soporto / Amortuador INGERSON</td>
+      <td>
+        <a href="../heavy/soporte_ingerson_i001/">Soporto / Amortuador INGERSON</a>
+      </td>
       <td>
         <img src="imges/SOPORTE_INGERSON_I001.jpg" class="" alt="Sheep">
       </td>
@@ -48,7 +50,9 @@ cascade:
     </tr>
     <tr>
       <td>Tampo</td>
-      <td>Soporto / Amortuador hembra TAMPO</td>
+      <td>
+        <a href="../heavy/tampo_hembra/">Soporto / Amortuador hembra TAMPO</a>
+      </td>
       <td>
         <img src="imges/TAMPO_HEMBRA.jpg" class="" alt="Sheep">
       </td>
@@ -56,7 +60,9 @@ cascade:
     </tr>
     <tr>
       <td>Tampo</td>
-      <td>Soporto / Amortuador macho TAMPO</td>
+      <td>
+        <a href="../heavy/tampo_macho/">Soporto / Amortuador macho TAMPO</a>
+      </td>
       <td>
         <img src="imges/SOPORTE_TAMPO_MACHO.jpg" class="" alt="Sheep">
       </td>
@@ -64,7 +70,9 @@ cascade:
     </tr>
     <tr>
       <td>Tematerra</td>
-      <td>Soporto / Amortuador macho TEMATERRA</td>
+      <td>
+        <a href="../heavy/tematerra/">Soporto / Amortuador macho TEMATERRA</a>
+      </td>
       <td>
         <img src="imges/TEMATERRA.jpg" class="" alt="Sheep">
       </td>
@@ -72,7 +80,9 @@ cascade:
     </tr>
     <tr>
       <td>Vibrocompactadores</td>
-      <td>Soporte / Amortiguador DYNAPAC</td>
+      <td>
+        <a href="../heavy/dynapac/">Soporte / Amortiguador DYNAPAC</a>
+      </td>
       <td>
         <img src="imges/soporte_cuello.jpg" class="" alt="Sheep">
       </td>
@@ -80,7 +90,9 @@ cascade:
     </tr>
     <tr>
       <td>Vibrocompactadores</td>
-      <td>Soporte / Amortiguador JCB</td>
+      <td>Soporte / Amortiguador JCB
+        <a href="../heavy/jcb/">Soporte / Amortiguador JCB</a>
+      </td>
       <td>
         <img src="imges/cocol_10.jpg" class="" alt="Sheep">
       </td>
@@ -88,7 +100,9 @@ cascade:
     </tr>
     <tr>
       <td>Vibrocompactadores</td>
-      <td>Soporto / Amortuador MULLER | VAP-70</td>
+      <td>
+        <a href="../heavy/vap70_vibrocupactador/">Soporto / Amortuador MULLER | VAP-70</a>
+      </td>
       <td>
         <img src="imges/YAP70_VIBROCUPACTADOR.jpg" class="" alt="Sheep">
       </td>
@@ -125,7 +139,9 @@ cascade:
     <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
   </tr>
   <tr>
-    <td>Cople de ventilador DYNAPAC</td>
+    <td>
+      <a href="../light/cople_ventilador/">Cople de ventilador DYNAPAC</a>
+    </td>
     <td>
       <img src="imges/cople_ventilador.jpg" class="" alt="Sheep">
     </td>
@@ -163,7 +179,9 @@ cascade:
   </tr>
   <tr>
     <td class="col-1">Cartepillar</td>
-    <td class="col-2">Cople 8 bujes CARTEPILLAR</td>
+    <td class="col-2">
+      <a href="../light/cople_8_bujes/">Cople 8 bujes CARTEPILLAR</a>
+    </td>
     <td class="col-5">
       <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep">
     </td>
@@ -250,7 +268,9 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td class="col-3">Soporte para brazo medio</td>
+    <td class="col-3">
+      <a href="../excavators/soporte_para_retroexcavadora_media_luna/">Soporte para brazo medio</a>
+    </td>
     <td class="col-5">
       <img src="imges/SOPORTE_PARA_RETROEXCAVADORA_MEDIA_LUNA.jpg" class="" alt="Sheep">
     </td>
@@ -259,7 +279,9 @@ cascade:
     </td>
   </tr>
   <tr>
-    <td class="col-3">Soporte para brazo plano</td>
+    <td class="col-3">
+    <a href="../excavators/soporte_retroexcavadora/">Soporte para brazo plano</a>    
+    </td>
     <td class="col-5">
       <img src="imges/SOPORTE_RETROEXCAVADORA.jpg" class="" alt="Sheep">
     </td>
