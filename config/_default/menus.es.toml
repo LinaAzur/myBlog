@@ -16,7 +16,7 @@
   weight = 10
 
   [[main]]
-  name = "Maquinaria pesada"
+  name = "Maquinaria Pesada"
   parent = "Productos"
   pageRef = "products/Heavy"
   weight = 10
