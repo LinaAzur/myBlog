@@ -2,6 +2,7 @@
 title: "Soporto / Amortuador BOGAM"
 description: ""
 date: 2024-05-28
+tags: ["Bomag"]
 cascade:
   showReadingTime: true
 ---

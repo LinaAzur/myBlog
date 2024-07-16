@@ -2,6 +2,7 @@
 title: "Soporte / Amortiguador JCB"
 description: ""
 date: 2024-05-28
+tags: ["Vibrocompactadores"]
 cascade:
   showReadingTime: true
 ---

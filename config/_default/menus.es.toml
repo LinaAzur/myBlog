@@ -30,25 +30,25 @@
 [[main]]
   name = "Martillo"
   parent = "Productos"
-  pageRef = "samples"
+  pageRef = "products/Hammer"
   weight = 10
 
 [[main]]
   name = "Coples para Compresora / Servicio para Vulcanizadora"
   parent = "Productos"
-  pageRef = "samples"
+  pageRef = "products/Coples_Servicio"
   weight = 10
 
 [[main]]
   name = "Retroexcavadoras"
   parent = "Productos"
-  pageRef = "samples"
+  pageRef = "products/Excavators"
   weight = 10
 
 [[main]]
   name = "Cañuela"
   parent = "Productos"
-  pageRef = "samples"
+  pageRef = "products/Canuela"
   weight = 10
 
 [[main]]
@@ -107,10 +107,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
 # [[footer]]
 #   name = "Categories"
