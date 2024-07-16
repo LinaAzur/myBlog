@@ -18,13 +18,13 @@
   [[main]]
   name = "Maquinaria pesada"
   parent = "Productos"
-  pageRef = "products/B009"
+  pageRef = "products/Heavy"
   weight = 10
 
 [[main]]
   name = "Maquinaria Ligera"
   parent = "Productos"
-  pageRef = "samples"
+  pageRef = "products/Light"
   weight = 10
 
 [[main]]

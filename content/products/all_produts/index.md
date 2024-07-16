@@ -18,7 +18,9 @@ cascade:
   <tbody>
     <tr>
       <td class="col-1">Bomag</td>
-      <td class="col-2">Soporto / Amortuador BOGAM</td>
+      <td class="col-2">
+        <a href="../heavy/bomag/">Soporto / Amortuador BOGAM</a>
+      </td>
       <td class="col-5">
         <img src="imges/soporte_bomag.jpg" class="" alt="Sheep">
       </td>
@@ -28,7 +30,9 @@ cascade:
     </tr>
     <tr>
       <td>Bomag</td>
-      <td>Soporto / Amortuador BOGAM Rectangular</td>
+      <td>
+        <a href="../heavy/bomag/">Soporto / Amortuador BOGAM Rectangular</a>
+      </td>
       <td>
         <img src="imges/BOMAC_RECTANGULAR.jpg" class="" alt="Sheep">
       </td>
