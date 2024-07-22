@@ -3,9 +3,11 @@ title: "Todos los productos"
 description: ""
 date: 2024-05-29
 cascade:
-  showReadingTime: true
+    showReadingTime: true
 ---
+
 ## Maquinaria pesada
+
 <table class="table-image">
 <thead>
   <tr >
@@ -43,7 +45,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Ingerson</td>
+      <td>
+        <a href="../../tags/ingerson/">Ingerson</a>
+      </td>
       <td>
         <a href="../heavy/soporte_ingerson_i001/">Soporto / Amortuador INGERSON</a>
       </td>
@@ -53,7 +57,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Tampo</td>
+      <td>
+        <a href="../../tags/tampo/">Tampo</a>
+      </td>
       <td>
         <a href="../heavy/tampo_hembra/">Soporto / Amortuador hembra TAMPO</a>
       </td>
@@ -63,7 +69,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Tampo</td>
+      <td>
+        <a href="../../tags/tampo/">Tampo</a>
+      </td>
       <td>
         <a href="../heavy/tampo_macho/">Soporto / Amortuador macho TAMPO</a>
       </td>
@@ -73,7 +81,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Tematerra</td>
+      <td>
+        <a href="../../tags/tematerra/">Tematerra</a>
+      </td>
       <td>
         <a href="../heavy/tematerra/">Soporto / Amortuador macho TEMATERRA</a>
       </td>
@@ -83,7 +93,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Vibrocompactadores</td>
+      <td>
+        <a href="../../tags/vibrocompactadores/">Vibrocompactadores</a>
+      </td>
       <td>
         <a href="../heavy/dynapac/">Soporte / Amortiguador DYNAPAC</a>
       </td>
@@ -93,7 +105,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Vibrocompactadores</td>
+      <td>
+        <a href="../../tags/vibrocompactadores/">Vibrocompactadores</a>
+      </td>
       <td>Soporte / Amortiguador JCB
         <a href="../heavy/jcb/">Soporte / Amortiguador JCB</a>
       </td>
@@ -103,7 +117,9 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
     <tr>
-      <td>Vibrocompactadores</td>
+      <td>
+        <a href="../../tags/vibrocompactadores/">Vibrocompactadores</a>
+      </td>
       <td>
         <a href="../heavy/vap70_vibrocupactador/">Soporto / Amortuador MULLER | VAP-70</a>
       </td>
@@ -113,10 +129,7 @@ cascade:
       <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
     </tr>
   </tbody>
-</table> 
-
-
-
+</table>
 
 ## Maquinaria Ligera
 
@@ -134,7 +147,7 @@ cascade:
       <td class="col-4">
         <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </p>
       </td>
-  </tr>  
+  </tr>
   <tr>
     <td>Bailarinas para Manubrio WACKER / MIKASA</td>
     <td>-
@@ -203,8 +216,8 @@ cascade:
   </tr>
 </table>
 
+## Martíllo
 
-## Martíllo		
 <table>
   <tr>
     <td>Marca</td>
@@ -284,7 +297,7 @@ cascade:
   </tr>
   <tr>
     <td class="col-3">
-    <a href="../excavators/soporte_retroexcavadora/">Soporte para brazo plano</a>    
+    <a href="../excavators/soporte_retroexcavadora/">Soporte para brazo plano</a>
     </td>
     <td class="col-5">
       <img src="imges/SOPORTE_RETROEXCAVADORA.jpg" class="" alt="Sheep">

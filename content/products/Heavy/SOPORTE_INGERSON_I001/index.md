@@ -2,6 +2,7 @@
 title: "Soporto / Amortuador INGERSON"
 description: ""
 date: 2024-05-28
+tags: ["Ingerson"]
 cascade:
   showReadingTime: true
 ---
