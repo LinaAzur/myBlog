@@ -242,8 +242,12 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>NPK</td>
-    <td>Servicio de vulcanizado lateral NPK</td>
+    <td>
+        <a href="../../tags/npk/">NPK</a>
+    </td>
+    <td>
+      <a href="../hammer/npk/">Servicio de vulcanizado lateral NPK</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
@@ -260,14 +264,18 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>Servicio de vulcanizado para sombrero / bacinica</td>
+    <td>
+        <a href="../coples_servicio/sombrero/">Servicio de vulcanizado para sombrero / bacinica</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
     <td>Servicio de vulcanizado para acomplador tipo sombrero para compresor.</td>
   </tr>
   <tr>
-    <td>Servicio de vulcanizado para volante</td>
+    <td>
+      <a href="../coples_servicio/volante/">Servicio de vulcanizado para volante</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
@@ -283,8 +291,12 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>ATLAS</td>
-    <td>Servicio de vulcanizado para sombrero / bacinica ATLAS</td>
+    <td>
+      <a href="../../tags/atlas/">ATLAS</a>
+    </td>
+    <td>
+      <a href="../coples_servicio/atlas/">Servicio de vulcanizado para sombrero / bacinica ATLAS</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
@@ -332,8 +344,12 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>Retroexcavadora</td>
-    <td>Hongos para retroexcavadora</td>
+    <td>
+      <a href="../../tags/retroexcavadora/">Retroexcavadora</a>
+    </td>
+    <td>
+      <a href="../excavators/hongos/">Hongos para retroexcavadora</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
