@@ -2,6 +2,7 @@
 title: "Cople 6 bujes RAYGO"
 description: ""
 date: 2024-05-28
+tags: ["Raygo"]
 cascade:
   showReadingTime: true
 ---

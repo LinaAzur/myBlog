@@ -205,7 +205,9 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td class="col-1">Cartepillar</td>
+    <td class="col-1">
+      <a href="../../tags/cartepillar/">Cartepillar</a>
+    </td>
     <td class="col-2">
       <a href="../light/cople_8_bujes/">Cople 8 bujes CARTEPILLAR</a>
     </td>
@@ -217,8 +219,12 @@ cascade:
     </td>
   </tr>
   <tr>
-    <td>Raygo</td>
-    <td>Cople 6 bujes RAYGO</td>
+    <td>
+      <a href="../../tags/raygo/">Raygo</a>
+    </td>
+    <td>
+      <a href="../light/cople_6/">Cople 6 bujes RAYGO</a>
+    </td>
     <td>-
       <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
