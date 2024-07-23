@@ -2,6 +2,7 @@
 title: "Bailarinas para Manubrio WACKER / MIKASA"
 description: ""
 date: 2024-05-28
+tags: ["Bailarinas"]
 cascade:
   showReadingTime: true
 ---

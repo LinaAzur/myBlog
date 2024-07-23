@@ -140,7 +140,9 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-      <td class="col-3">Bailarinas para Manubrio WACKER / MIKASA</td>
+      <td class="col-3">
+        <a href="../light/sam-001/">Bailarinas para Manubrio WACKER / MIKASA</a>
+      </td>
       <td class="col-4"> -
         <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
       </td>
@@ -149,7 +151,9 @@ cascade:
       </td>
   </tr>
   <tr>
-    <td>Bailarinas para Manubrio WACKER / MIKASA</td>
+    <td>
+      <a href="../light/sam-004/">Bailarinas para Manubrio WACKER / MIKASA</a>
+    </td>
     <td>-
     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
@@ -165,21 +169,27 @@ cascade:
     <td>Cople ventilador.</td>
   </tr>
   <tr>
-    <td>Soporte / Amortiguador PR8 doble tornillo</td>
+    <td>
+      <a href="../light/pr8_doble/">Soporte / Amortiguador PR8 doble tornillo</a>
+    </td>
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
     <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción.</td>
   </tr>
   <tr>
-    <td>Soporte / Amortiguador muertito para PR8</td>
+    <td>
+      <a href="../light/muertito/">Soporte / Amortiguador muertito para PR8</a>
+    </td>
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
     <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
   </tr>
   <tr>
-    <td>Soporte / Amortiguador para rodillo vibratorio PR8 </td>
+    <td>
+      <a href="../light/pr8/">Soporte / Amortiguador para rodillo vibratorio PR8 </a>
+    </td>
     <td>-
     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
