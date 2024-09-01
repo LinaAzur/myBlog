@@ -24,6 +24,7 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -53,6 +54,14 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/BOMAG_RECTANGULAR.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG RECTANGULAR</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/EnsamblajeBOMAGRECTANGULAR.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>BOMAG RECTANGULAR</h5>
