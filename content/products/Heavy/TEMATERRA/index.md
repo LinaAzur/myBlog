@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador macho TEMATERRA"
+title: "Soporte / Amortiguador macho TEMATERRA"
 description: ""
 date: 2024-05-28
 tags: ["Tematerra"]

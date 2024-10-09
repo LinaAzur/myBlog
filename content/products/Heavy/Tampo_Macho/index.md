@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador macho TAMPO"
+title: "Soporte / Amortiguador macho TAMPO"
 description: ""
 date: 2024-05-28
 tags: ["Tampo"]

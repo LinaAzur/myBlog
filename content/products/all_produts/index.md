@@ -23,7 +23,7 @@ cascade:
         <a href="../../tags/bomag/">Bomag</a>
       </td>
       <td class="col-2">
-        <a href="../heavy/bomag/">Soporto / Amortuador BOGAM</a>
+        <a href="../heavy/bomag/">Soporte / Amortiguador BOMAG</a>
       </td>
       <td class="col-5">
         <img src="imges/soporte_bomag.jpg" class="" alt="Sheep">
@@ -37,7 +37,7 @@ cascade:
         <a href="../../tags/bomag/">Bomag</a>
       </td>
       <td>
-        <a href="../heavy/bomag_rectangular/">Soporto / Amortuador BOGAM Rectangular</a>
+        <a href="../heavy/bomag_rectangular/">Soporte / Amortiguador BOMAG Rectangular</a>
       </td>
       <td>
         <img src="imges/BOMAC_RECTANGULAR.jpg" class="" alt="Sheep">
@@ -49,7 +49,7 @@ cascade:
         <a href="../../tags/ingerson/">Ingerson</a>
       </td>
       <td>
-        <a href="../heavy/soporte_ingerson_i001/">Soporto / Amortuador INGERSON</a>
+        <a href="../heavy/soporte_ingerson_i001/">Soporte / Amortiguador INGERSOLL</a>
       </td>
       <td>
         <img src="imges/SOPORTE_INGERSON_I001.jpg" class="" alt="Sheep">
@@ -61,7 +61,7 @@ cascade:
         <a href="../../tags/tampo/">Tampo</a>
       </td>
       <td>
-        <a href="../heavy/tampo_hembra/">Soporto / Amortuador hembra TAMPO</a>
+        <a href="../heavy/tampo_hembra/">Soporte / Amortiguador hembra TAMPO</a>
       </td>
       <td>
         <img src="imges/TAMPO_HEMBRA.jpg" class="" alt="Sheep">
@@ -73,7 +73,7 @@ cascade:
         <a href="../../tags/tampo/">Tampo</a>
       </td>
       <td>
-        <a href="../heavy/tampo_macho/">Soporto / Amortuador macho TAMPO</a>
+        <a href="../heavy/tampo_macho/">Soporte / Amortiguador macho TAMPO</a>
       </td>
       <td>
         <img src="imges/SOPORTE_TAMPO_MACHO.jpg" class="" alt="Sheep">
@@ -85,7 +85,7 @@ cascade:
         <a href="../../tags/tematerra/">Tematerra</a>
       </td>
       <td>
-        <a href="../heavy/tematerra/">Soporto / Amortuador macho TEMATERRA</a>
+        <a href="../heavy/tematerra/">Soporte / Amortiguador macho TEMATERRA</a>
       </td>
       <td>
         <img src="imges/TEMATERRA.jpg" class="" alt="Sheep">
@@ -121,7 +121,7 @@ cascade:
         <a href="../../tags/vibrocompactadores/">Vibrocompactadores</a>
       </td>
       <td>
-        <a href="../heavy/vap70_vibrocupactador/">Soporto / Amortuador MULLER | VAP-70</a>
+        <a href="../heavy/vap70_vibrocupactador/">Soporte / Amortiguador MULLER | VAP-70</a>
       </td>
       <td>
         <img src="imges/YAP70_VIBROCUPACTADOR.jpg" class="" alt="Sheep">
@@ -141,23 +141,23 @@ cascade:
   </tr>
   <tr>
       <td class="col-3">
-        <a href="../light/sam-001/">Bailarinas para Manubrio WACKER / MIKASA</a>
+        <a href="../light/sam-001/">Bailarinas para Manubrio WACKER</a>
       </td>
       <td class="col-4"> -
         <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
       </td>
       <td class="col-4">
-        <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </p>
+        <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </p>
       </td>
   </tr>
   <tr>
     <td>
-      <a href="../light/sam-004/">Bailarinas para Manubrio WACKER / MIKASA</a>
+      <a href="../light/sam-004/">Bailarinas para Manubrio WACKER</a>
     </td>
     <td>-
     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+    <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
   </tr>
   <tr>
     <td>
@@ -166,7 +166,7 @@ cascade:
     <td>
       <img src="imges/cople_ventilador.jpg" class="" alt="Sheep">
     </td>
-    <td>Cople ventilador.</td>
+    <td>Cople de ventilador DYNAPAC.</td>
   </tr>
   <tr>
     <td>
@@ -175,7 +175,7 @@ cascade:
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción.</td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. .</td>
   </tr>
   <tr>
     <td>
@@ -184,7 +184,7 @@ cascade:
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Soporte de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. . </td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@ cascade:
   </tr>
 </table>
 
-## Martíllo
+## Martillo
 
 <table>
   <tr>
@@ -270,7 +270,7 @@ cascade:
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Servicio de vulcanizado para acomplador tipo sombrero para compresor.</td>
+    <td>Servicio de vulcanizado para acoplador tipo sombrero para compresor.</td>
   </tr>
   <tr>
     <td>
@@ -279,7 +279,7 @@ cascade:
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Servicio de vulcanizado para acomplador tipo volante para compresor</td>
+    <td>Servicio de vulcanizado para acoplador tipo volante para compresor</td>
   </tr>
 </table>
 
@@ -300,7 +300,7 @@ cascade:
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Servicio de vulcanizado para acomplador para compresor.</td>
+    <td>Servicio de vulcanizado para acoplador para compresor.</td>
   </tr>
 </table>
 
@@ -320,7 +320,7 @@ cascade:
       <img src="imges/SOPORTE_PARA_RETROEXCAVADORA_MEDIA_LUNA.jpg" class="" alt="Sheep">
     </td>
     <td class="col-4">
-      <p>Soporte de hule para brazo en retroexcavadoras.</p>
+      <p>Soporte de hule para brazo medio en retroexcavadoras.</p>
     </td>
   </tr>
   <tr>
@@ -331,7 +331,7 @@ cascade:
       <img src="imges/SOPORTE_RETROEXCAVADORA.jpg" class="" alt="Sheep">
     </td>
     <td class="col-4">
-      <p>Soporte de hule para brazo en retroexcavadoras.</p>
+      <p>Soporte de hule para brazo medio en retroexcavadoras.</p>
     </td>
   </tr>
 </table>

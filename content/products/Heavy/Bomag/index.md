@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador BOGAM"
+title: "Soporte / Amortiguador BOMAG"
 description: ""
 date: 2024-05-28
 tags: ["Bomag"]

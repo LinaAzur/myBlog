@@ -1,5 +1,5 @@
 ---
-title: "Bailarinas para Manubrio WACKER / MIKASA"
+title: "Bailarinas para Manubrio WACKER"
 description: ""
 date: 2024-05-28
 tags: ["Bailarinas"]
@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
 ---
 
-Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en el compactación del suelo durante el proceso de construcción. 
+Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. 
 
 <head>
   <meta charset="UTF-8">

@@ -1,12 +1,12 @@
 ---
-title: "Cople Ventilador"
+title: "Cople de ventilador DYNAPAC"
 description: ""
 date: 2024-05-28
 cascade:
   showReadingTime: true
 ---
 
-Cople ventilador.
+Cople de ventilador DYNAPAC.
 
 <head>
   <meta charset="UTF-8">
@@ -30,7 +30,7 @@ Cople ventilador.
             src="imges/DSC_1031.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Cople Ventilador</h5>
+            <h5>Cople de ventilador DYNAPAC</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -38,7 +38,7 @@ Cople ventilador.
             src="imges/DSC_1060.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Cople Ventilador</h5>
+            <h5>Cople de ventilador DYNAPAC</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -46,7 +46,7 @@ Cople ventilador.
             src="imges/DSC_1061.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Cople Ventilador</h5>
+            <h5>Cople de ventilador DYNAPAC</h5>
           </div>
         </div>
       </div>

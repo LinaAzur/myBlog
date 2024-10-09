@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador INGERSON"
+title: "Soporte / Amortiguador INGERSOLL"
 description: ""
 date: 2024-05-28
 tags: ["Ingerson"]

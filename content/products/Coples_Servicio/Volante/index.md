@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Servicio de vulcanizado para acomplador tipo volante para compresor.
+Servicio de vulcanizado para acoplador tipo volante para compresor.
 
 <head>
   <meta charset="UTF-8">

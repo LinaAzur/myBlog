@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
 ---
 
-Servicio de vulcanizado para acomplador para compresor.
+Servicio de vulcanizado para acoplador para compresor.
 
 <head>
   <meta charset="UTF-8">

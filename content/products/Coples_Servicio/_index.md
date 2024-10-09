@@ -1,5 +1,5 @@
 ---
-title: "Coples para Compresora / Servicio para Vulcanizadora"
+title: "Coples para Compresor / Servicio para Vulcanizado"
 
 cascade:
   showDate: false

@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador hembra TAMPO"
+title: "Soporte / Amortiguador hembra TAMPO"
 description: ""
 date: 2024-05-28
 tags: ["Tampo"]

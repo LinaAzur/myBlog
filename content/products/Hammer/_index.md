@@ -1,5 +1,5 @@
 ---
-title: "Martíllo"
+title: "Martillo"
 
 cascade:
   showDate: false
@@ -7,4 +7,4 @@ cascade:
   invertPagination: true
 ---
 
-Todos los productos disponibles para martíllo.
+Todos los productos disponibles para martillo.

@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador MULLER | VAP-70"
+title: "Soporte / Amortiguador MULLER | VAP-70"
 description: ""
 date: 2024-05-28
 tags: ["Vibrocompactadores"]

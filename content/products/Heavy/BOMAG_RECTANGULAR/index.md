@@ -1,5 +1,5 @@
 ---
-title: "Soporto / Amortuador BOGAM Rectangular"
+title: "Soporte / Amortiguador BOMAG Rectangular"
 description: ""
 date: 2024-05-28
 tags: ["Bomag"]

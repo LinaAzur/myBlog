@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Servicio de vulcanizado para acomplador tipo sombrero para compresor.
+Servicio de vulcanizado para acoplador tipo sombrero para compresor.
 
 <head>
   <meta charset="UTF-8">
