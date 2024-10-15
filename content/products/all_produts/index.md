@@ -191,7 +191,7 @@ cascade:
       <a href="../light/pr8/">Soporte / Amortiguador para rodillo vibratorio PR8 </a>
     </td>
     <td>-
-    <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    <img src="imges/rodillo_PR8.jpg" class="" alt="PR8">
     </td>
     <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
   </tr>
