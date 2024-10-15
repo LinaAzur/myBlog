@@ -95,4 +95,4 @@ Cople de hule con 8 bujes metálicos con media cuerda.
 </script>
 
 
-<iframe src="model/model.html" width="100%" height="700px"></iframe>
+<iframe src="model/model.html" width="100%" height="500px"></iframe>

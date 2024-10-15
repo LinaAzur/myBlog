@@ -71,4 +71,4 @@ Servicio de vulcanizado para acoplador tipo sombrero para compresor.
 </script>
 
 
-<iframe src="model/model.html" width="100%" height="700px"></iframe>
+<iframe src="model/model.html" width="100%" height=500px"></iframe>

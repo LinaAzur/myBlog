@@ -27,7 +27,7 @@ Cople de ventilador DYNAPAC.
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/DSC_1031.jpg"
+            src="imges/DSC_1060.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>Cople de ventilador DYNAPAC</h5>
@@ -35,7 +35,7 @@ Cople de ventilador DYNAPAC.
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1060.jpg"
+            src="imges/DSC_1031.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Cople de ventilador DYNAPAC</h5>
@@ -86,4 +86,4 @@ Cople de ventilador DYNAPAC.
 </script>
 
 
-<iframe src="model/model.html" width="100%" height="700px"></iframe>
+<iframe src="model/model.html" width="100%" height="500px"></iframe>

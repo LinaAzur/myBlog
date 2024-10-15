@@ -143,8 +143,8 @@ cascade:
       <td class="col-3">
         <a href="../light/sam-001/">Bailarinas para Manubrio WACKER</a>
       </td>
-      <td class="col-4"> -
-        <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+      <td class="col-4">
+        <img src="imges/bailarinas.jpg" class="" alt="WACKER">
       </td>
       <td class="col-4">
         <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </p>
@@ -155,7 +155,7 @@ cascade:
       <a href="../light/sam-004/">Bailarinas para Manubrio WACKER</a>
     </td>
     <td>-
-    <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    <!-- <img src="imges/bailarinas.jpg" class="" alt="Sheep"> -->
     </td>
     <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
   </tr>
