@@ -6,10 +6,6 @@ a:hover{
   text-decoration: none!important;
 }
 
-nav{
-  align-items: baseline !important;
-}
-
 .order-first{
   order: 9999;
 }
@@ -32,4 +28,13 @@ nav{
 }
 .carousel-indicators .active {
   background-color: #000000;
+}
+p{
+  margin-top: 17px;
+}
+#TableOfContents{
+  padding-top: 30px!important;
+}
+#TableOfContents{
+  padding-top: 30px!important;
 }

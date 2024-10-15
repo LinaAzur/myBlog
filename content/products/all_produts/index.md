@@ -175,14 +175,14 @@ cascade:
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. .</td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
   </tr>
   <tr>
     <td>
       <a href="../light/muertito/">Soporte / Amortiguador muertito para PR8</a>
     </td>
-    <td>-
-     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    <td>
+     <img src="imges/muertito.jpg" class="" alt="Muertito">
     </td>
     <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. . </td>
   </tr>

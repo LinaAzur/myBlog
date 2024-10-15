@@ -6,11 +6,16 @@ a:hover{
   text-decoration: none!important;
 }
 
-nav{
-  align-items: baseline !important;
-  padding-top: 20px!important;
+#TableOfContents{
+  padding-top: 30px!important;
 }
 
+#search-button span {
+
+}
+p{
+    margin-top: 17px;
+}
 .order-first{
   order: 9999;
 }
