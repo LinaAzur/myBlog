@@ -1,5 +1,5 @@
 ---
-title: "Bailarinas para Manubrio WACKER"
+title: "Bailarinas para Manubrio MIKASA"
 description: ""
 date: 2024-05-28
 tags: ["Bailarinas"]
@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
 ---
 
-Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. 
+Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción.  
 
 <head>
   <meta charset="UTF-8">
@@ -22,17 +22,50 @@ Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/SAM-004.JPG"
+            src="imges/DSC_1097.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Bailarinas</h5>
+            <h5>Bailarinas para Manubrio MIKASA</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/DSC_1095.jpg"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio MIKASA</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/DSC_1096.jpg"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio MIKASA</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/DSC_1098.jpg"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio MIKASA</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/DSC_1099.jpg"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio MIKASA</h5>
           </div>
         </div>
       </div>

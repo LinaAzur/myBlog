@@ -152,10 +152,10 @@ cascade:
   </tr>
   <tr>
     <td>
-      <a href="../light/sam-004/">Bailarinas para Manubrio WACKER</a>
+      <a href="../light/sam-004/">Bailarinas para Manubrio MIKASA</a>
     </td>
-    <td>-
-    <!-- <img src="imges/bailarinas.jpg" class="" alt="Sheep"> -->
+    <td>
+    <img src="imges/mikasa.jpg" class="" alt="Sheep">
     </td>
     <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
   </tr>
