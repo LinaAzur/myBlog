@@ -32,3 +32,6 @@ a:hover{
 p{
   margin-top: 17px;
 }
+#TableOfContents{
+  padding-top: 30px!important;
+}

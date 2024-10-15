@@ -114,4 +114,4 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
 </script>
 
 
-<iframe src="model/model.html" width="100%" height="700px"></iframe>
+<iframe src="model/model.html" width="100%" height="500px"></iframe>
