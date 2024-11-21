@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Soporte de hule para brazo medio en retroexcavadoras.
+Soporte de hule para brazo plano en retroexcavadoras.
 
 <head>
   <meta charset="UTF-8">

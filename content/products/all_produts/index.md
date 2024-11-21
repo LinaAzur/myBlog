@@ -331,7 +331,7 @@ cascade:
       <img src="imges/SOPORTE_RETROEXCAVADORA.jpg" class="" alt="Sheep">
     </td>
     <td class="col-4">
-      <p>Soporte de hule para brazo medio en retroexcavadoras.</p>
+      <p>Soporte de hule para brazo plano en retroexcavadoras.</p>
     </td>
   </tr>
 </table>
@@ -353,7 +353,7 @@ cascade:
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td></td>
+    <td>Soporte de hule para retroexcavadora.</td>
   </tr>
 </table>
 

@@ -4,7 +4,7 @@ date: 2024-05-28
 ---
 
 ### MISIÓN
-Ser, en México la empresa líder en venta de refacciones para maquinaria pesada, maquinaria ligera, servicio de vulcanizado y  piezas especiales, basado en un alto sentido de compromiso hacia sus clientes, buscando como objetivo principal proveerles soluciones especializadas satisfactorias a sus necesidades, logrando todo ello a través del trabajo en equipo de sus colaboradores, generando el crecimiento integral de ambas partes, lo cual de como resultado la obtención de los objetivos a corto, mediano y largo plazo establecidos de manera integral.
+Ser en México la empresa líder en la fabricación y venta de refacciones / soportes / amortiguadores de hule, caucho, una gama variada de elastómeros y poliuretano para maquinaria pesada, maquinaria ligera, servicio de vulcanizado y  piezas especiales, basado en un alto sentido de compromiso hacia sus clientes, buscando como objetivo principal proveerles soluciones especializadas satisfactorias a sus necesidades, logrando todo ello a través del trabajo en equipo de sus colaboradores, generando el crecimiento integral de ambas partes, lo cual de como resultado la obtención de los objetivos a corto, mediano y largo plazo establecidos de manera integral.
 
 ### VISIÓN
 Nos vemos con la empresa líder dentro del mercado local, que logra satisfacer enteramente las necesidades de sus clientes a través de las mejores soluciones especializadas en el menor tiempo, la mejor calidad y con el mejor talento humano.
