@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>&lt;model-viewer&gt; example</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+  </head> 
+<body>
+  <div id="card">
+    <model-viewer id="gota"
+                  src="round.glb"
+                  alt="Canuela redonda"
+                  shadow-intensity="1"
+                  camera-controls
+                  camera-orbit="-271.6deg 90.98deg 626.5m"
+                  auto-rotate ar
+                  ar-modes="webxr scene-viewer quick-look" >
+    </model-viewer>    
+  </div>
+    <script>
+      const modelViewerT003 = document.querySelector("model-viewer#round");
+      modelViewerT003.addEventListener("load", (ev) => {
+        let material = modelViewerT003.model.materials[0];
+        material.pbrMetallicRoughness.setBaseColorFactor("#eeeeee");
+        material.pbrMetallicRoughness.setMetallicFactor(0.73);
+        material.pbrMetallicRoughness.setRoughnessFactor(0.5);
+      });
+    </script>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</body>
+</html>

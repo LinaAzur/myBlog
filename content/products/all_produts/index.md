@@ -384,7 +384,9 @@ cascade:
     <td>Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2", 5/8".</td>
   </tr>
   <tr>
-    <td>Cañuela para criba redonda</td>
+    <td>
+      <a href="../canuela/round/">Cañuela para criba redonda</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
