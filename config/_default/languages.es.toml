@@ -16,8 +16,8 @@ title = "PolymAG"
  [author]
    name = "PolymAG"
    image = "img/fondo1.jpg"
-   headline = "Mi propia página"
-   #bio = ""
+   headline = "PolymAG PRO es una empresa dedicada a la fabricación y venta de refacciones, soportes, amortiguadores de hule, caucho, una gama variada de elastómeros y poliuretano para maquinaria pesada, maquinaria ligera, servicio de vulcanizado y piezas especiales. Todo esto para industrias como son la minera, construcción, cementera, marítima, agropecuario, textil e industrias en general."
+   #bio = "PolymAG PRO es una empresa dedicada a la fabricación y venta de refacciones, soportes, amortiguadores de hule, caucho, una gama variada de elastómeros y poliuretano para maquinaria pesada, maquinaria ligera, servicio de vulcanizado y piezas especiales. Todo esto para industrias como son la minera, construcción, cementera, marítima, agropecuario, textil e industrias en general."
    links = [
      { email = "mailto:ventas@polymag.com.mx" },
 #     { link = "https://link-to-some-website.com/" },
