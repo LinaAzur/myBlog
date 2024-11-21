@@ -359,27 +359,27 @@ cascade:
 
 ## Cañuela
 
-<table>
+<table class="table-image">
   <tr>
     <td>Nombre</td>
     <td>Ilustración</td>
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>
+    <td class="col-3">
       <a href="../canuela/diamond/">Cañuela para criba diamante</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td class="col-5">
+      <img src="imges/diamond.JPG" class="" alt="Sheep">
     </td>
-    <td>Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
+    <td class="col-4">Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
   </tr>
   <tr>
     <td>
       <a href="../canuela/gota/">Cañuela para criba gota</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+    <img src="imges/Gota.JPG" class="" alt="Sheep">
     </td>
     <td>Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2", 5/8".</td>
   </tr>
@@ -387,8 +387,8 @@ cascade:
     <td>
       <a href="../canuela/round/">Cañuela para criba redonda</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+    <img src="imges/round.JPG" class="" alt="Sheep">
     </td>
     <td>Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
   </tr>
