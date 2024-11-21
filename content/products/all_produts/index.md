@@ -108,7 +108,7 @@ cascade:
       <td>
         <a href="../../tags/vibrocompactadores/">Vibrocompactadores</a>
       </td>
-      <td>Soporte / Amortiguador JCB
+      <td>
         <a href="../heavy/jcb/">Soporte / Amortiguador JCB</a>
       </td>
       <td>
@@ -407,6 +407,38 @@ cascade:
     <td>Rollo de hule faldon resistente a la abrasión utilizado para amotiguar vibraciones entre dos elementos, ancho disponible en 2", 3", 4", 6", 8", 10", 12", 20", 24", 28", 40" y 48". Largo disponible 15 metros y espesor de 1/4" a 1".</td>
   </tr>
 </table>
+
+
+
+## Zapata
+
+<table class="table-image">
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td class="col-3">
+      <a href="../zapata/cartepillar/">Zapata Cartepillar</a>
+    </td>
+    <td class="col-5">
+      <img src="imges/zapataC.jpg" class="" alt="Sheep">
+    </td>
+    <td class="col-4">Zapata Cartepillar</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../zapata/clip/">Zapata de clip para Finisher</a>
+    </td>
+    <td>
+    <img src="imges/finisher.jpg" class="" alt="Sheep">
+    </td>
+    <td>Zapata para Finisher</td>
+  </tr>
+</table>
+
+
 
 <head>
   <meta charset="UTF-8">

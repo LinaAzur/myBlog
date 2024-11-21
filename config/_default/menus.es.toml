@@ -19,7 +19,7 @@
   name = "Ver Todo"
   parent = "Productos"
   pageRef = "products"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Maquinaria Pesada"
@@ -55,6 +55,12 @@
   name = "Cañuela"
   parent = "Productos"
   pageRef = "products/Canuela"
+  weight = 10
+
+[[main]]
+  name = "Zapata"
+  parent = "Productos"
+  pageRef = "products/Zapata"
   weight = 10
 
 [[main]]

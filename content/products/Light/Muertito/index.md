@@ -24,6 +24,8 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -53,6 +55,22 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/D-032.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/color.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/b-n.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>
