@@ -46,7 +46,7 @@ cascade:
     </tr>
     <tr>
       <td>
-        <a href="../../tags/ingerson/">Ingerson</a>
+        <a href="../../tags/ingerson/">Ingersoll</a>
       </td>
       <td>
         <a href="../heavy/soporte_ingerson_i001/">Soporte / Amortiguador INGERSOLL</a>

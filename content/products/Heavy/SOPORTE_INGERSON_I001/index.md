@@ -2,7 +2,7 @@
 title: "Soporte / Amortiguador INGERSOLL"
 description: ""
 date: 2024-05-28
-tags: ["Ingerson"]
+tags: ["Ingersoll"]
 cascade:
   showReadingTime: true
 ---
@@ -32,7 +32,7 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1026.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>INGERSON</h5>
+            <h5>INGERSOLL</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -40,7 +40,7 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1047.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>INGERSON</h5>
+            <h5>INGERSOLL</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -48,7 +48,7 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1050.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>INGERSON</h5>
+            <h5>INGERSOLL</h5>
           </div>
         </div>
          <div class="carousel-item">
@@ -56,7 +56,7 @@ Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/I-001.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>INGERSON</h5>
+            <h5>INGERSOLL</h5>
           </div>
         </div>
       </div>
