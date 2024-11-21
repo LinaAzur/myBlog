@@ -1,12 +1,12 @@
 ---
-title: "Cañuela para criba gota"
+title: "Cañuela para criba diamante"
 description: ""
 date: 2024-05-28
 cascade:
   showReadingTime: true
 ---
 
-Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2", 5/8".
+Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".
 
 <head>
   <meta charset="UTF-8">
@@ -28,7 +28,7 @@ Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2", 5/8".
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/Gota.JPG"
+            src="imges/diamond.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>

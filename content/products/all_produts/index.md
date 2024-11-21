@@ -366,7 +366,9 @@ cascade:
     <td>Descripción</td>
   </tr>
   <tr>
-    <td>Cañuela para criba diamante</td>
+    <td>
+      <a href="../canuela/diamond/">Cañuela para criba diamante</a>
+    </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
@@ -374,12 +376,12 @@ cascade:
   </tr>
   <tr>
     <td>
-      <a href="../canuela/gota/">Cañuela para criba gota</a> 
+      <a href="../canuela/gota/">Cañuela para criba gota</a>
     </td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Cañuela de hule con tamaño de ranura en espesosr de 1/4", 3/8", 1/2", 5/8".</td>
+    <td>Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2", 5/8".</td>
   </tr>
   <tr>
     <td>Cañuela para criba redonda</td>
