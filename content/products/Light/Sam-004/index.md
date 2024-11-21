@@ -7,7 +7,7 @@ cascade:
   showReadingTime: true
 ---
 
-Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción.  
+Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyuvar en la compactación del suelo durante el proceso de construcción. 
 
 <head>
   <meta charset="UTF-8">

@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. 
+Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyuvar en la compactación del suelo durante el proceso de construcción.  
 
 <head>
   <meta charset="UTF-8">
@@ -44,7 +44,7 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1101.jpg"
+            src="imges/EnsamblajeCOMPLETOPR8.JPG"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>
@@ -52,7 +52,7 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1100.jpg"
+            src="imges/EnsamblajeCOMPLETOPR82.JPG"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>

@@ -29,7 +29,7 @@ cascade:
         <img src="imges/soporte_bomag.jpg" class="" alt="Sheep">
       </td>
       <td class="col-4">
-        <p>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</p>
+        <p>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </p>
       </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ cascade:
       <td>
         <img src="imges/BOMAC_RECTANGULAR.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -54,7 +54,7 @@ cascade:
       <td>
         <img src="imges/SOPORTE_INGERSON_I001.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -66,7 +66,7 @@ cascade:
       <td>
         <img src="imges/TAMPO_HEMBRA.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -78,7 +78,7 @@ cascade:
       <td>
         <img src="imges/SOPORTE_TAMPO_MACHO.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -90,7 +90,7 @@ cascade:
       <td>
         <img src="imges/TEMATERRA.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -102,7 +102,7 @@ cascade:
       <td>
         <img src="imges/soporte_cuello.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -114,7 +114,7 @@ cascade:
       <td>
         <img src="imges/cocol_10.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
     <tr>
       <td>
@@ -126,7 +126,7 @@ cascade:
       <td>
         <img src="imges/YAP70_VIBROCUPACTADOR.jpg" class="" alt="Sheep">
       </td>
-      <td>Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.</td>
+      <td>Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. </td>
     </tr>
   </tbody>
 </table>
@@ -147,7 +147,7 @@ cascade:
         <img src="imges/bailarinas.jpg" class="" alt="WACKER">
       </td>
       <td class="col-4">
-        <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </p>
+        <p>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyuvar en la compactación del suelo durante el proceso de construcción. </p>
       </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ cascade:
     <td>
     <img src="imges/mikasa.jpg" class="" alt="Sheep">
     </td>
-    <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
+    <td>Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados para coadyuvar en la compactación del suelo durante el proceso de construcción. </td>
   </tr>
   <tr>
     <td>
@@ -175,7 +175,7 @@ cascade:
     <td>-
      <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. </td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyuvar en la compactación del suelo durante el proceso de construcción.</td>
   </tr>
   <tr>
     <td>
@@ -184,7 +184,7 @@ cascade:
     <td>
      <img src="imges/muertito.jpg" class="" alt="Muertito">
     </td>
-    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en la compactación del suelo durante el proceso de construcción. . </td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyuvar en la compactación del suelo durante el proceso de construcción.</td>
   </tr>
   <tr>
     <td>
@@ -193,7 +193,7 @@ cascade:
     <td>
     <img src="imges/rodillo_PR8.jpg" class="" alt="PR8">
     </td>
-    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyubar en el compactación del suelo durante el proceso de construcción. </td>
+    <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyuvar en la compactación del suelo durante el proceso de construcción.</td>
   </tr>
 </table>
 

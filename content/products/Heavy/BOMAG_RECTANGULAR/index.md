@@ -6,7 +6,7 @@ tags: ["Bomag"]
 cascade:
   showReadingTime: true
 ---
-Soporte / amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyubar en la compactación del suelo durante el proceso de la construcción.
+Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado para coadyuvar en la compactación del suelo durante el proceso de la construcción. 
 
 <head>
   <meta charset="UTF-8">
