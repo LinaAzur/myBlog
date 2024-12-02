@@ -28,7 +28,7 @@ Servicio de vulcanizado para acoplador tipo sombrero para compresor.
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/T-003.JPG"
+            src="imges/sombrero.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>Servicio de vulcanizado</h5>

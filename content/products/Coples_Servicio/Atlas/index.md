@@ -29,7 +29,7 @@ Servicio de vulcanizado para acoplador para compresor.
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/T-003.JPG"
+            src="imges/atlas.png"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>Atlas</h5>

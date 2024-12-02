@@ -25,6 +25,8 @@ Soporte de hule para brazo medio en retroexcavadoras.
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -62,6 +64,22 @@ Soporte de hule para brazo medio en retroexcavadoras.
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/GFE-O98.JPG"
+            alt="Fourth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Soporte para brazo medio</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/brazomedio.JPG"
+            alt="Fourth slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Soporte para brazo medio</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/transparentebrazo.JPG"
             alt="Fourth slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Soporte para brazo medio</h5>

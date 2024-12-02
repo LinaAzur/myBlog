@@ -29,6 +29,8 @@ Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados
         <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -90,6 +92,22 @@ Soporte / Amortiguador de hule para apisonadoras, bailarina o fuelle, diseñados
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/b-n.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio WACKER</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/bailarina.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Bailarinas para Manubrio WACKER</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/explosivo.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>Bailarinas para Manubrio WACKER</h5>

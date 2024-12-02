@@ -22,14 +22,22 @@ Cople de hule con 6 bujes metálicos lisos
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/DSC_1024.jpg"
+            src="imges/cople6.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/cople6trans.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>

@@ -31,6 +31,9 @@ Zapata de clip para Finisher.
         <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -121,6 +124,30 @@ Zapata de clip para Finisher.
             <h5>Zapata</h5>
           </div>
         </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/color.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/zapatacolor.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/ZAPATATRASPARENTE.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata</h5>
+          </div>
+        </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -142,3 +169,16 @@ Zapata de clip para Finisher.
     integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
 </body>
+
+<script>
+  setTimeout(() => {
+    var element = document.getElementById("search-button");
+    var divElement = document.getElementById('search-wrapper');
+    element.onclick = function() {
+      divElement.style.setProperty('visibility', 'visible', 'important');
+  }
+}, "1000");
+</script>
+
+
+<iframe src="model/model.html" width="100%" height="500px"></iframe>

@@ -22,14 +22,22 @@ Servicio de vulcanizado para suspensión de martillo hidraúlico NPK.
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/T-003.JPG"
+            src="imges/LATERAL.JPG"
+            alt="First slide">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>NPK</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/transparente.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>NPK</h5>

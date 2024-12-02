@@ -24,6 +24,8 @@ Zapata Cartepillar.
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -31,7 +33,7 @@ Zapata Cartepillar.
             src="imges/DSC_1108.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>Zapata Cartepillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -39,7 +41,7 @@ Zapata Cartepillar.
             src="imges/DSC_1107.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>Zapata Cartepillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -47,7 +49,7 @@ Zapata Cartepillar.
             src="imges/DSC_1109.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>Zapata Cartepillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -55,7 +57,23 @@ Zapata Cartepillar.
             src="imges/DSC_1110.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>Zapata Cartepillar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/explosivo.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata Cartepillar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/trans.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata Cartepillar</h5>
           </div>
         </div>
       </div>

@@ -1,5 +1,5 @@
 ---
-title: "Soporte / Amortiguador PR8 doble tornillo"
+title: "Soporte / Amortiguador PR8 doble tornillo Wacker"
 description: ""
 date: 2024-05-28
 cascade:
@@ -23,12 +23,11 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/DSC_1024.jpg"
+            src="imges/doble.png"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>
@@ -36,7 +35,7 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1045.jpg"
+            src="imges/doble.JPG"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>
@@ -44,15 +43,7 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/DSC_1046.jpg"
-            alt="Third slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/T-003.JPG"
+            src="imges/dobletra.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>

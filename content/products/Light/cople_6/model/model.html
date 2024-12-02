@@ -10,18 +10,18 @@
   </head> 
 <body>
   <div id="card">
-    <model-viewer id="t003"
-                  src="t-003.glb"
-                  alt="Boomag Rectangular"
+    <model-viewer id="cople"
+                  src="cople.glb"
+                  alt="cople"
                   shadow-intensity="1"
                   camera-controls
-                  camera-orbit="-201.6deg 82.98deg 626.5m"
+                  camera-orbit="-21.6deg 82.98deg 626.5m"
                   auto-rotate ar
                   ar-modes="webxr scene-viewer quick-look" >
     </model-viewer>    
   </div>
     <script>
-      const modelViewerT003 = document.querySelector("model-viewer#t003");
+      const modelViewerT003 = document.querySelector("model-viewer#cople");
       modelViewerT003.addEventListener("load", (ev) => {
         let material = modelViewerT003.model.materials[0];
         material.pbrMetallicRoughness.setBaseColorFactor("#eeeeee");
