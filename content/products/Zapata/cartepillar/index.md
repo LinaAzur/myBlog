@@ -1,12 +1,12 @@
 ---
-title: "Zapata Cartepillar"
+title: "Zapata Caterpillar"
 description: ""
 date: 2024-05-28
 tags: ["Perfiladora de asfalto"]
 cascade:
   showReadingTime: true
 ---
-Zapata Cartepillar.
+Zapata Caterpillar.
 
 <head>
   <meta charset="UTF-8">
@@ -33,7 +33,7 @@ Zapata Cartepillar.
             src="imges/DSC_1108.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -41,7 +41,7 @@ Zapata Cartepillar.
             src="imges/DSC_1107.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -49,7 +49,7 @@ Zapata Cartepillar.
             src="imges/DSC_1109.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -57,7 +57,7 @@ Zapata Cartepillar.
             src="imges/DSC_1110.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -65,7 +65,7 @@ Zapata Cartepillar.
             src="imges/explosivo.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -73,7 +73,7 @@ Zapata Cartepillar.
             src="imges/trans.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>Zapata Cartepillar</h5>
+            <h5>Zapata Caterpillar</h5>
           </div>
         </div>
       </div>

@@ -1,5 +1,5 @@
 ---
-title: "Coples para Compresor / Servicio para Vulcanizado"
+title: "Coples para Compresor / Servicio de Vulcanizado"
 
 cascade:
   showDate: false
@@ -7,4 +7,4 @@ cascade:
   invertPagination: true
 ---
 
-Todos los productos disponibles para Coples para Compresora / Servicio para Vulcanizadora.
+Todos los productos disponibles para Coples para Compresora / Servicio de Vulcanizado. 

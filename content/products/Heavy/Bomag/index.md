@@ -34,7 +34,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1034.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -42,7 +42,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1069.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -50,7 +50,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/DSC_1070.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -58,7 +58,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/B-009.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -66,7 +66,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/color.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -74,7 +74,7 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
             src="imges/ENSAMBLEB-009.JPG"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>BOGAM</h5>
+            <h5>BOMAG</h5>
           </div>
         </div>
       </div>

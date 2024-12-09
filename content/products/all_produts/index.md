@@ -172,8 +172,8 @@ cascade:
     <td>
       <a href="../light/pr8_doble/">Soporte / Amortiguador PR8 doble tornillo</a>
     </td>
-    <td>-
-     <!-- <img src="imges/soporte_bomag.jpg" class="" alt="Sheep"> -->
+    <td>
+      <img src="imges/dobleW.png" class="" alt="Sheep">
     </td>
     <td>Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coadyuvar en la compactación del suelo durante el proceso de construcción.</td>
   </tr>
@@ -206,10 +206,10 @@ cascade:
   </tr>
   <tr>
     <td class="col-1">
-      <a href="../../tags/cartepillar/">Cartepillar</a>
+      <a href="../../tags/cartepillar/">Caterpillar</a>
     </td>
     <td class="col-2">
-      <a href="../light/cople_8_bujes/">Cople 8 bujes CARTEPILLAR</a>
+      <a href="../light/cople_8_bujes/">Cople 8 bujes CATERPILLAR</a>
     </td>
     <td class="col-5">
       <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep">
@@ -225,8 +225,8 @@ cascade:
     <td>
       <a href="../light/cople_6/">Cople 6 bujes RAYGO</a>
     </td>
-    <td>-
-      <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+      <img src="imges/cople6.JPG" class="" alt="Sheep">
     </td>
     <td>Cople de hule con 6 bujes metálicos lisos.</td>
   </tr>
@@ -234,7 +234,7 @@ cascade:
 
 ## Martillo
 
-<table>
+<table class="table-image">
   <tr>
     <td>Marca</td>
     <td>Nombre</td>
@@ -248,16 +248,16 @@ cascade:
     <td>
       <a href="../hammer/npk/">Servicio de vulcanizado lateral NPK</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+      <img src="imges/LATERAL.JPG" class="" alt="Sheep">
     </td>
     <td>Servicio de vulcanizado para suspensión de martillo hidraúlico NPK</td>
   </tr>
 </table>
 
-## Coples para Compresora / Servicio para Vulcanizadora
+## Coples para Compresora / Servicio de Vulcanizado
 
-<table>
+<table class="table-image">
   <tr>
     <td>Nombre</td>
     <td>Ilustración</td>
@@ -267,8 +267,8 @@ cascade:
     <td>
         <a href="../coples_servicio/sombrero/">Servicio de vulcanizado para sombrero / bacinica</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+      <img src="imges/sombrero.JPG" class="" alt="Sheep">
     </td>
     <td>Servicio de vulcanizado para acoplador tipo sombrero para compresor.</td>
   </tr>
@@ -276,14 +276,14 @@ cascade:
     <td>
       <a href="../coples_servicio/volante/">Servicio de vulcanizado para volante</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+    <img src="imges/volante.JPG" class="" alt="Sheep">
     </td>
     <td>Servicio de vulcanizado para acoplador tipo volante para compresor</td>
   </tr>
 </table>
 
-<table>
+<table class="table-image">
   <tr>
     <td>Marca</td>
     <td>Nombre</td>
@@ -297,8 +297,8 @@ cascade:
     <td>
       <a href="../coples_servicio/atlas/">Servicio de vulcanizado para sombrero / bacinica ATLAS</a>
     </td>
-    <td>-
-    <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
+    <td>
+      <img src="imges/atlas.JPG" class="" alt="Sheep">
     </td>
     <td>Servicio de vulcanizado para acoplador para compresor.</td>
   </tr>
@@ -420,12 +420,12 @@ cascade:
   </tr>
   <tr>
     <td class="col-3">
-      <a href="../zapata/cartepillar/">Zapata Cartepillar</a>
+      <a href="../zapata/cartepillar/">Zapata Caterpillar</a>
     </td>
     <td class="col-5">
       <img src="imges/zapataC.jpg" class="" alt="Sheep">
     </td>
-    <td class="col-4">Zapata Cartepillar</td>
+    <td class="col-4">Zapata Caterpillar</td>
   </tr>
   <tr>
     <td>

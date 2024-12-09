@@ -40,7 +40,7 @@
   weight = 10
 
 [[main]]
-  name = "Coples para Compresora / Servicio para Vulcanizadora"
+  name = "Coples para Compresora / Servicio de Vulcanizado"
   parent = "Productos"
   pageRef = "products/Coples_Servicio"
   weight = 10
@@ -61,6 +61,12 @@
   name = "Zapata"
   parent = "Productos"
   pageRef = "products/Zapata"
+  weight = 10
+
+[[main]]
+  name = "Poliuretano"
+  parent = "Productos"
+  pageRef = "products/poliuretano"
   weight = 10
 
 [[main]]
