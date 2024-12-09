@@ -1,8 +1,8 @@
 ---
-title: "Cople 8 bujes CARTEPILLAR"
+title: "Cople 8 bujes CATERPILLAR"
 description: ""
 date: 2024-05-28
-tags: ["Cartepillar"]
+tags: ["Caterpillar"]
 cascade:
   showReadingTime: true
 ---
