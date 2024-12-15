@@ -21,6 +21,9 @@ Servicio de recubrimiento de poliuretano (llanta) para perfiladoras, monta carga
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -28,6 +31,30 @@ Servicio de recubrimiento de poliuretano (llanta) para perfiladoras, monta carga
             src="imges/color.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
+            <h5>Recubrimiento de llantas</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1.png"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Recubrimiento de llantas</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/2.png"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Recubrimiento de llantas</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/3.png"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
             <h5>Recubrimiento de llantas</h5>
           </div>
         </div>
