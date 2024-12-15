@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Hule Faldon.
+Rollo de hule faldon resistente a la abrasión utilizado para amotiguar vibraciones entre dos elementos, ancho disponible en 2", 3", 4", 6", 8", 10", 12", 20", 24", 28", 40" y 48". Largo disponible 15 metros y espesor de 1/4" a 1"
 
 <head>
   <meta charset="UTF-8">

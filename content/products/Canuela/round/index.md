@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".
+Cañuela de hule con tamaño de ranura en espesor de  1/4", 3/8", 1/2, 5/8".
 
 <head>
   <meta charset="UTF-8">
@@ -28,18 +28,18 @@ Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100"
-            src="imges/round.JPG"
+            src="imges/redonda.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Criba redonda</h5>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100"
-            src="imges/redonda.JPG"
+            src="imges/round.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Criba redonda</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -47,7 +47,7 @@ Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".
             src="imges/transparente.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Criba redonda</h5>
           </div>
         </div>
       </div>

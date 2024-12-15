@@ -6,7 +6,7 @@ cascade:
   showReadingTime: true
 ---
 
-Hule Almorite.
+Rollo de hule almorite de 1.20 x 10 ó 15 metros de largo en espesor de 1/4", 3/8" y 1/2".
 
 <head>
   <meta charset="UTF-8">

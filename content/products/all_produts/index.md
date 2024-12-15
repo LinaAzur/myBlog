@@ -255,7 +255,7 @@ cascade:
   </tr>
 </table>
 
-## Coples para Compresora / Servicio de Vulcanizado
+## Servicio de vulcanizado / Coples para compresor
 
 <table class="table-image">
   <tr>
@@ -372,7 +372,7 @@ cascade:
     <td class="col-5">
       <img src="imges/diamond.JPG" class="" alt="Sheep">
     </td>
-    <td class="col-4">Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
+    <td class="col-4">Cañuela de hule con tamaño de ranura en espesor de 1/4", 3/8", 1/2, 5/8".</td>
   </tr>
   <tr>
     <td>
@@ -390,21 +390,21 @@ cascade:
     <td>
     <img src="imges/round.JPG" class="" alt="Sheep">
     </td>
-    <td>Cañuela de hule con tamaño de ranura en 1/4", 3/8", 1/2, 5/8".</td>
+    <td>Cañuela de hule con tamaño de ranura en espesor de  1/4", 3/8", 1/2, 5/8".</td>
   </tr>
   <tr>
     <td>Hule Almorite</td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Rollo de hule almorite de 1.20 x 10 ó 15 metros de largo en espesor de 1/4", 3/8" y 1/2".</td>
+    <td>Rollo de hule almorite de 1.20 x 10 ó 15 metros de largo en espesor de 1/4", 3/8" y 1/2"</td>
   </tr>
   <tr>
     <td>Hule faldon</td>
     <td>-
     <!-- <img src="imges/cople_8_bujes.jpg" class="" alt="Sheep"> -->
     </td>
-    <td>Rollo de hule faldon resistente a la abrasión utilizado para amotiguar vibraciones entre dos elementos, ancho disponible en 2", 3", 4", 6", 8", 10", 12", 20", 24", 28", 40" y 48". Largo disponible 15 metros y espesor de 1/4" a 1".</td>
+    <td>Rollo de hule faldon resistente a la abrasión utilizado para amotiguar vibraciones entre dos elementos, ancho disponible en 2", 3", 4", 6", 8", 10", 12", 20", 24", 28", 40" y 48". Largo disponible 15 metros y espesor de 1/4" a 1"</td>
   </tr>
 </table>
 

@@ -40,7 +40,7 @@
   weight = 10
 
 [[main]]
-  name = "Coples para Compresora / Servicio de Vulcanizado"
+  name = "Servicio de vulcanizado / Coples para compresor"
   parent = "Productos"
   pageRef = "products/Coples_Servicio"
   weight = 10
@@ -57,11 +57,6 @@
   pageRef = "products/Canuela"
   weight = 10
 
-[[main]]
-  name = "Zapata"
-  parent = "Productos"
-  pageRef = "products/Zapata"
-  weight = 10
 
 [[main]]
   name = "Poliuretano"
