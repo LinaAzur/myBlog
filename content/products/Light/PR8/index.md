@@ -25,6 +25,9 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -32,6 +35,30 @@ Soporte / amortiguador de hule para vibrocompactador ligero diseñado para coady
             src="imges/DSC_1103.jpg"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+         <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1196.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+         <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1197.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>PR8</h5>
+          </div>
+        </div>
+         <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1201.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
             <h5>PR8</h5>
           </div>
         </div>

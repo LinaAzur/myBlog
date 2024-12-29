@@ -21,6 +21,11 @@ Pieza elaborada en poliuretano para martillo hidráulico.
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -34,6 +39,46 @@ Pieza elaborada en poliuretano para martillo hidráulico.
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/linea.JPG"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Media Esfera</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1295.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Media Esfera</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1306.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Media Esfera</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1308.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Media Esfera</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1315.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Media Esfera</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1318.jpg"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Media Esfera</h5>

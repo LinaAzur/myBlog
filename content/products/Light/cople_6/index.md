@@ -32,7 +32,7 @@ Cople de hule con 6 bujes metálicos lisos
             src="imges/cople6.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Cople 6</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -40,7 +40,7 @@ Cople de hule con 6 bujes metálicos lisos
             src="imges/cople6trans.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Cople 6</h5>
           </div>
         </div>
       </div>

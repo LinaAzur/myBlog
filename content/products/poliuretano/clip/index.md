@@ -34,6 +34,8 @@ Pieza de poliuretano zapatas tipo clip para perfiladoras y pavimentadoras.
         <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -119,6 +121,22 @@ Pieza de poliuretano zapatas tipo clip para perfiladoras y pavimentadoras.
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/DSC_1125.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1344.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Zapata</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1348.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>Zapata</h5>

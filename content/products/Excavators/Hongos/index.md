@@ -23,6 +23,12 @@ Soporte de hule para retroexcavadora.
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
         <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
       </ol>
@@ -32,7 +38,55 @@ Soporte de hule para retroexcavadora.
             src="imges/hongo.JPG"
             alt="First slide">
           <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/11.JPG"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1154.JPG"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1159.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1166.JPG"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1168.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1171.jpg"
+            alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>Hongo</h5>
           </div>
         </div>
         <div class="carousel-item">
@@ -40,25 +94,9 @@ Soporte de hule para retroexcavadora.
             src="imges/hongotrans.JPG"
             alt="Second slide">
             <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
+            <h5>Hongo</h5>
           </div>
         </div>
-        <!-- <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/DSC_1046.jpg"
-            alt="Third slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100"
-            src="imges/T-003.JPG"
-            alt="Third slide">
-            <div class="carousel-caption d-none d-md-block">
-            <h5>PR8</h5>
-          </div>
-        </div> -->
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>

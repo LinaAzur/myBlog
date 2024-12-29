@@ -27,6 +27,12 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -56,6 +62,54 @@ Soporte / Amortiguador de hule antivibratorio para vibrocompactadores diseñado 
         <div class="carousel-item">
           <img class="d-block w-100"
             src="imges/B-009.JPG"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1255.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1256.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1258.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1261.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1266.jpg"
+            alt="Third slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h5>BOMAG</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100"
+            src="imges/1267.jpg"
             alt="Third slide">
             <div class="carousel-caption d-none d-md-block">
             <h5>BOMAG</h5>
