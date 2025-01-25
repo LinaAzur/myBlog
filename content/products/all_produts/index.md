@@ -6,6 +6,13 @@ cascade:
     showReadingTime: true
 ---
 
+REFACCIONES DE HULE PARA MARCAS COMO: BOMAG, CATERPILLAR, CASE, DYNAPAC, HYSTER, INGERSOLL RAND, LIUGONG, MIKASA, MULLER, RAYGO, TAMPO, TEMATERRA, VOLVO, WACKER, WIRTGEN, HAMM, 
+CAÑUELA Y PERFILES DE HULE PARA CRIBAS Y MINERIA, SOPORTES DE HULE ANTIVIBRATORIOS ESPESIALIZADOS. SUSPENSIONES DE HULE PARA MARTILLOS HIDRAULICOS, TACONES DE HULE ENTRE OTROS.
+PRODUCTOS DE POLIURETANO,
+LLANTAS DE POLIURETANO PARA PAVIMENTADORAS Y PERFILADORAS DE ASFALTO, ZAPATAS DE POLIURETANO PARA PAVIMENTADORAS Y PERFILADORAS DE ASFALTO, PIEZAS DE POLIURETANO PARA MARTILLOS HIDRAULICOS, PLACAS DE POLIURETANO, RODAJAS, RODILLOS DE ARRASTRE, IMPRENTA Y MINERIA,RECUBRIMIENTO EN POLIURETANO PARA LLANTAS DE PAVIMENTADORAS, MONTACARGAS, ENTRE OTROS.
+
+
+
 ## Cañuela
 
 <table class="table-image">
@@ -287,6 +294,22 @@ cascade:
   </tbody>
 </table>
 
+<table class="table-image">
+  <tr>
+    <td>Nombre</td>
+    <td>Ilustración</td>
+    <td>Descripción</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../heavy/cocol_4/">Cocol 4 Pulgadas</a>
+    </td>
+    <td class="col-5">
+      <img src="imges/cocol_4.jpg" class="" alt="Sheep">
+    </td>
+    <td>Cocol 4 Pulgadas</td>
+  </tr>
+</table>
 
 ## Martillo
 
@@ -317,6 +340,7 @@ cascade:
     <td>Ilustración</td>
     <td>Descripción</td>
   </tr>
+  <tr>
     <td>
       <a href="../hammer/esfera/">Media Esfera</a>
     </td>
