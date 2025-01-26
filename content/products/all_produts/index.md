@@ -305,9 +305,18 @@ LLANTAS DE POLIURETANO PARA PAVIMENTADORAS Y PERFILADORAS DE ASFALTO, ZAPATAS DE
       <a href="../heavy/cocol_4/">Cocol 4 Pulgadas</a>
     </td>
     <td class="col-5">
-      <img src="imges/cocol_4.jpg" class="" alt="Sheep">
+      <img src="imges/cocol4.jpg" class="" alt="Sheep">
     </td>
     <td>Cocol 4 Pulgadas</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="../heavy//tampo_pacs_bombac/">Tampo Pacs Bombac</a>
+    </td>
+    <td class="col-5">
+      <img src="imges/tampo.jpg" class="" alt="Sheep">
+    </td>
+    <td>Soporte para Tampo Pacs.</td>
   </tr>
 </table>
 
