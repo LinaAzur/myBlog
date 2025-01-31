@@ -40,4 +40,4 @@ Somos una empresa de venta de soportes cuya práctica esta basada en una estruct
 - **EMPATIA:** Porque sus comentarios y sugerencias serán atendidas para buscar la mejor solución a sus necesidades.													
 
 ### VALORES
-Honestidad, Estabilidad, Tranquilidad, Calidad, Comodidad, Seguridad Confiabilidad, fiabilidad, para usted y su inmueble
+Honestidad, Estabilidad, Tranquilidad, Calidad, Comodidad, Seguridad Confiabilidad, fiabilidad, para usted y su equipo. 

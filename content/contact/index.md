@@ -5,7 +5,7 @@ date: 2024-05-28
 ### Medios de Contacto
 
 
-**Teléfono:**	55-3060-9992
+**Teléfono:**	56-1103-0313
 
 **Dirección:** Los Héroes Tecámac Estado de México, CP 55764
 
