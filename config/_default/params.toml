@@ -18,7 +18,7 @@ mainSections = ["products"]
 disableImageOptimization = false
 disableImageZoom = false
 
-defaultBackgroundImage = "img/machin.jpg" # used as default for background images
+defaultBackgroundImage = "img/back.gif" # used as default for background images
 defaultFeaturedImage = "img/fondo1.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/machin.jpg" # used in: hero, and card
+  homepageImage = "img/back.gif" # used in: hero, and card
   showRecent = true
   showRecentItems = 1
   showMoreLink = true
