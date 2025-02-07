@@ -75,6 +75,23 @@
   weight = 30
 
 [[main]]
+  name = "Políticas"
+  pageRef = "politics"
+  weight = 40
+
+[[main]]
+  name = "Cookies"
+  parent = "Políticas"
+  pageRef = "politics/cookies"
+  weight = 10
+
+[[main]]
+  name = "Aviso de privacidad"
+  parent = "Políticas"
+  pageRef = "politics/privacy"
+  weight = 10
+
+[[main]]
   identifier = "facebook"
   pre = "facebook"
   url = "https://facebook.com/user"

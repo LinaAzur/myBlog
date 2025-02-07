@@ -9,4 +9,4 @@ date: 2024-05-28
 
 **Dirección:** Los Héroes Tecámac Estado de México, CP 55764
 
-**Correo electrónico:**	[ventas\@polymag.com.mx](mailto:ventas@polymag.com.mx)
+**Correo electrónico:**	[ventas\@polymagpro.com.mx](mailto:ventas@polymagpro.com.mx)
